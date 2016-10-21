@@ -96,4 +96,3 @@ print """\nHere is an example of what our Set() class can do:
 See, this works the same as 'set()' in a simple form.\n""" % (s.contains(4), s.contains(3))
 
 print '-' * 100
-
