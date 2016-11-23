@@ -1,0 +1,1140 @@
+The Big Data Transformation,November,2016,0636920053231,['Alice LaPlante']
+R: Unleash Machine Learning Techniques,October,2016,9781787127340,"['Raghav Bali', 'Dipanjan Sarkar', 'Brett Lantz', 'Cory Lesmeister']"
+The Path to Predictive Analytics and Machine Learning,October,2016,0636920054993,"['Conor Doherty', 'Steven Camina', 'Kevin White', 'Gary Orenstein']"
+Fast Data Architectures for Streaming Applications,October,2016,0636920055594,['Dean Wampler']
+Introduction to Apache Flink,October,2016,0636920061724,"['Ellen Friedman', 'Kostas Tzoumas']"
+Effective Multi-Tenant Distributed Systems,October,2016,0636920052111,"['Chad Carson', 'Sean Suchter']"
+Sentiment Analysis in Social Networks,October,2016,9780128044124,"['Federico Pozzi', 'Elisabetta Fersini', 'Enza Messina', 'Bing Liu']"
+Apache Spark 2 for Beginners,October,2016,9781785885006,['Rajanarayanan Thottuvaikkatumana']
+"Practical Data Analysis, 2nd Edition",September,2016,9781785289712,"['Hector Cuesta', 'Sampath Kumar']"
+"Mastering QGIS, 2nd Edition",September,2016,9781786460370,"['GISP Kurt Menke', 'GISP Dr. Richard Smith Jr.', 'Luigi Pirelli', 'GISP Dr. John Van Hoesen']"
+Big Data Analytics,September,2016,9781785884696,['Venkat Ankam']
+PostgreSQL Development Essentials,September,2016,9781783989003,"['Manpreet Kaur', 'Baji Shaik']"
+Introduction to Machine Learning with Python,September,2016,0636920030515,"['Andreas C.  M\xc3\xbcller', 'Sarah Guido']"
+Biostatistics by Example Using SAS Studio,September,2016,9781629603285,['Ron Cody']
+Strategic Analytics and SAS,September,2016,9781629592992,['Randall S. Collica']
+Quantum Inspired Computational Intelligence,September,2016,9780128044094,"['Siddhartha Bhattacharyya', 'Ujjwal Maulik', 'Paramartha Dutta']"
+The Global Impact of Open Data,September,2016,0636920053200,"['Andrew Young', 'Stefaan Verhulst']"
+"Predictive Analytics For Dummies, 2nd Edition",September,2016,9781119267003,"['Anasse Bari', 'Mohamed Chaouchi', 'Tommy Jung']"
+What Are Conversational Bots?,September,2016,0636920056485,"['Jon Bruner', 'Mike Barlow']"
+Strategies for Formulations Development,September,2016,9781629596709,"['Ronald Snee', 'Roger Hoerl']"
+Getting Data Right,September,2016,0636920043720,['Shannon Cutt']
+JMP 13 Predictive and Specialized Modeling,September,2016,9781629604824,['SAS Institute']
+JMP 13 Scripting Guide,September,2016,9781629604763,['SAS Institute']
+JMP 13 Quality and Process Methods,September,2016,9781629604800,['SAS Institute']
+JMP 13 Profilers,September,2016,9781629604794,['SAS Institute']
+JMP 13 Basic Analysis,September,2016,9781629604718,['SAS Institute']
+JMP 13 Design of Experiments Guide,September,2016,9781629604695,['SAS Institute']
+JMP 13 Consumer Research,September,2016,9781629604725,['SAS Institute']
+JMP 13 Reliability and Survival Methods,September,2016,9781629604817,['SAS Institute']
+Using JMP 13,September,2016,9781629604701,['SAS Institute']
+JMP 13 Essential Graphing,September,2016,9781629604749,['SAS Institute']
+JMP 13 Multivariate Methods,September,2016,9781629604787,['SAS Institute']
+Discovering JMP 13,September,2016,9781629604732,['SAS Institute']
+JMP 13 Fitting Linear Models,September,2016,9781629604756,['SAS Institute']
+Type Inheritance and Relational Theory,September,2016,0636920051589,['C.J. Date']
+"Building the Agile Enterprise, 2nd Edition",September,2016,9780128051603,['Fred A. Cummins']
+Biostatistics and Computer-based Analysis of Health Data using Stata,September,2016,9781785481420,"['Christophe Lalanne', 'Mounir Mesbah']"
+2016 Data Science Salary Survey,September,2016,0636920053347,"['John King', 'Roger Magoulas']"
+Mastering Predictive Analytics with Python,August,2016,9781785882715,['Joseph Babcock']
+Python: Deeper Insights into Machine Learning,August,2016,9781787128576,"['Sebastian Raschka', 'David Julian', 'John Hearty']"
+Hadoop: Data Processing and Modelling,August,2016,9781787125162,"['Garry Turkington', 'Tanmay Deshpande', 'Sandeep Karanth']"
+Tableau: Creating Interactive Data Visualizations,August,2016,9781787124196,"['Jen Stirrup', 'Ashutosh Nandeshwar', 'Ashley Ohmann', 'Matt Floyd']"
+Deep Learning,August,2016,0636920035343,"['Josh Patterson', 'Adam Gibson']"
+Introduction to R for Business Intelligence,August,2016,9781785280252,['Jay Gendron']
+Architecting for Access,August,2016,0636920051640,['Rich Morrow']
+"Carpenter's Complete Guide to the SAS Macro Language, Third Edition, 3rd Edition",August,2016,9781629592688,['Art Carpenter']
+Reducing Risk in the Petroleum Industry,August,2016,0636920053224,['Naveen Viswanath']
+Foundations for Analytics with Python,August,2016,0636920038375,['Clinton W. Brownley']
+The Data and Analytics Playbook,August,2016,9780128023075,"['Lowell Fryman', 'Gregory Lampshire', 'Dan Meers']"
+The New Artificial Intelligence Market,August,2016,0636920052296,['Aman Naimat']
+Practical Statistics for Data Scientists,August,2016,0636920048992,"['Peter Bruce', 'Andrew Bruce']"
+In Search of Database Nirvana,August,2016,0636920051190,['Rohit Jain']
+Large Scale Machine Learning with Python,August,2016,9781785887215,"['Bastiaan Sjardin', 'Luca Massaron', 'Alberto Boschetti']"
+Python Machine Learning Blueprints: Intuitive data projects you can relate to,July,2016,9781784394752,['Alexander T. Combs']
+Smarter Decisions – The Intersection of Internet of Things and Decision Science,July,2016,9781785884191,['Jojo Moolayil']
+Getting Started with TensorFlow,July,2016,9781786468574,['Giancarlo Zaccone']
+Mastering Business Intelligence with MicroStrategy,July,2016,9781785884405,"['Dmitry Anoshin', 'Himani Rana', 'Ning Ma']"
+Machine Learning for the Web,July,2016,9781785886607,['Andrea Isoni']
+MongoDB: The Definitive Guide,July,2016,0636920049531,"['Shannon Bradshaw', 'Kristina Chodorow']"
+Advanced Machine Learning with Python,July,2016,9781784398637,['John Hearty']
+Architecting for the Internet of Things,July,2016,0636920053569,['Ryan Betts']
+TensorFlow for Machine Intelligence,July,2016,9781939902351,"['Sam Abrahams', 'Danijar Hafner', 'Erik Erwitt', 'Ariel Scarpinelli']"
+Hadoop and Spark Performance for the Enterprise,July,2016,0636920052623,['Andy Oram']
+Python Data Analysis Cookbook,July,2016,9781785282287,['Ivan Idris']
+Architecting HBase Applications,July,2016,0636920035688,"['Jean-Marc Spaggiari', ""Kevin O'Dell""]"
+AI and Medicine,July,2016,0636920052029,['Mike Barlow']
+Perspectives on Data Science for Software Engineering,July,2016,9780128042069,"['Tim Menzies', 'Laurie Williams', 'Thomas Zimmermann']"
+Elegant SciPy,July,2016,0636920038481,"['Juan Nunez-Iglesias', 'St\xc3\xa9fan van der Walt', 'Harriet Dashnow']"
+Advancing Procurement Analytics,July,2016,0636920050261,['Federico Castanedo']
+"Statistical Analysis with Excel For Dummies, 4th Edition",July,2016,9781119271154,['Joseph Schmuller Ph.D.']
+The Big Data Market,July,2016,0636920051572,['Aman Naimat']
+Embedding Analytics in Modern Applications,June,2016,0636920051558,['Courtney Webster']
+Data Visualization with Python and JavaScript,June,2016,0636920037057,['Kyran Dale']
+"Cassandra: The Definitive Guide, 2nd Edition",June,2016,0636920043041,"['Jeff Carpenter', 'Eben Hewitt']"
+The Enterprise Big Data Lake,June,2016,0636920042204,['Alex Gorelik']
+"Excel Sales Forecasting For Dummies, 2nd Edition",June,2016,9781119291428,['Conrad Carlberg']
+Python Machine Learning Cookbook,June,2016,9781786464477,['Prateek Joshi']
+Mastering Feature Engineering,June,2016,0636920049081,['Alice Zheng']
+Data Infrastructure for Next-Gen Finance,June,2016,0636920051466,['Jane Roberts']
+Advanced Splunk,June,2016,9781785884351,['Ashish Kumar Tulsiram Yadav']
+Python: Real-World Data Science,June,2016,9781786465160,"['Dusty Phillips', 'Fabrizio Romano', 'Phuong Vo. T. H.', 'Martin Czygan', 'Robert Layton', 'Sebastian Raschka']"
+Mastering Natural Language Processing with Python,June,2016,9781783989041,"['Deepti Chopra', 'Nisheeth Joshi', 'Iti Mathur']"
+"Splunk Operational Intelligence Cookbook, 2nd Edition",June,2016,9781785284991,"['Josh Diakun', 'Paul F. Johnson', 'Derek Mock']"
+Data Science in the Cloud with Microsoft Azure Machine Learning and Python,June,2016,0636920044161,['Stephen F. Elston']
+Big Data,June,2016,9780128053942,"['Rajkumar Buyya', 'Rodrigo N. Calheiros', 'Amir Vahid Dastjerdi']"
+Cybersecurity and Applied Mathematics,June,2016,9780128044520,"['Leigh Metcalf', 'William Casey']"
+Data Analytics with Hadoop,June,2016,0636920035275,"['Benjamin Bengfort', 'Jenny Kim']"
+Learning Pentaho CTools,May,2016,9781785283420,['Miguel Gaspar']
+Mastering Redis,May,2016,9781783988181,['Jeremy Nelson']
+Mastering Parallel Programming with R,May,2016,9781784394004,"['Simon R. Chapple', 'Eilidh Troup', 'Thorsten Forster', 'Terence Sloan']"
+Java Deep Learning Essentials,May,2016,9781785282195,['Yusuke Sugomori']
+Mastering Data Visualization with Microsoft Visio Professional 2016,May,2016,9781785882661,['David John Parker']
+Mastering Mesos,May,2016,9781785886249,"['Dipa Dubhashi', 'Akhil Das']"
+Building Products with Data,May,2016,0636920048732,['Sean McClure']
+Efficient R Programming,May,2016,0636920047995,"['Colin Gillespie', 'Robin Lovelace']"
+Analyzing Data in the Internet of Things,May,2016,0636920051183,['Alice LaPlante']
+Mastering the SAS DS2 Procedure,May,2016,9781629597027,['Mark Jordan']
+Making Sense of Stream Processing,May,2016,0636920044543,['Martin Kleppmann']
+Finding Value in Data,May,2016,0636920049647,['Mike Bugembe']
+Streaming Architecture,May,2016,0636920049463,"['Ted Dunning', 'Ellen Friedman']"
+Machine Learning For Dummies,May,2016,9781119245513,"['John Paul Mueller', 'Luca Massaron']"
+Learning Probabilistic Graphical Models in R,April,2016,9781784392055,['David Bellot']
+The Hadoop Performance Myth,April,2016,0636920050063,['Courtney Webster']
+Practical Data Analysis Cookbook,April,2016,9781783551668,['Tomasz Drabas']
+Are Your Bits Flipped?,April,2016,9781615424719,['Joe Kissell']
+Machine Learning in Java,April,2016,9781784396589,['Bostjan Kaluza']
+QGIS 2 Cookbook,April,2016,9781783984961,"['Alex Mandel', 'Victor Olaya Ferrero', 'Anita Graser', 'Alexander Bruy']"
+"Learning d3.js Data Visualization, 2nd Edition",April,2016,9781785889042,"['\xc3\x86ndrew Rininsland', 'Swizec Teller']"
+Mastering Azure Analytics,April,2016,0636920050568,['Zoiner Tejada']
+Getting Analytics Right,April,2016,0636920050599,"['Nidhi  Aggarwal', 'Byron Berk', 'Gideon  Goldin', 'Matt  Holzapfel', 'Eliot  Knudsen']"
+Machine Learning Proceedings 1989,April,2016,9781558600362,['Machine Learning']
+Architecting Data Lakes,April,2016,0636920048787,"['Alice LaPlante', 'Ben  Sharma']"
+"Relational Database Design and Implementation, 4th Edition",April,2016,9780128043998,['Jan L. Harrington']
+Business Intelligence Strategy and Big Data Analytics,April,2016,9780128091982,['Steve Williams']
+Designing Machine Learning Systems with Python,April,2016,9781785882951,['David Julian']
+R Machine Learning By Example,March,2016,9781784390846,"['Raghav Bali', 'Dipanjan Sarkar']"
+"Hadoop Real-World Solutions Cookbook, 2nd Edition",March,2016,9781784395506,['Tanmay Deshpande']
+R Deep Learning Essentials,March,2016,9781785280580,['Joshua F. Wiley']
+Mastering .NET Machine Learning,March,2016,9781785888403,['Jamie Dixon']
+Making Sense of Data,March,2016,0636920041320,"['Miriah Meyer', 'Danyel Fisher']"
+Learning IBM Watson Analytics,March,2016,9781785880773,['James D. Miller']
+Exploratory Factor Analysis with SAS,March,2016,9781629600642,"['Jason W. Osborne PhD', 'Erin S. Banjanovic']"
+High Performance Spark,March,2016,0636920046967,"['Holden Karau', 'Rachel Warren']"
+Learning Responsive Data Visualization,March,2016,9781785883781,['Christoph Korner']
+Learning SQLite for iOS,March,2016,9781785288975,['MSc Gene Da Rocha BSc']
+Clinical Graphs Using SAS,March,2016,9781629597010,['Sanjay Matange']
+The DS2 Procedure: SAS Programming Methods at Work,March,2016,9781629601700,['Peter Eberhardt']
+Getting Started with RethinkDB,March,2016,9781785887604,['Gianluca Tiepolo']
+Ten Signs of Data Science Maturity,March,2016,0636920048749,"['Peter Guerra', 'Kirk Borne']"
+The Visual Imperative,March,2016,9780128038444,['Lindy Ryan']
+Hadoop: What You Need to Know,March,2016,0636920044550,['Donald Miner']
+Data Simplification,March,2016,9780128037812,['Jules J Berman']
+"Learning QGIS, 3rd Edition",March,2016,9781785880339,['Anita Graser']
+The Business of Genomic Data,March,2016,0636920046707,['Brian Orelli']
+Spark,March,2016,9781119254010,"['Ilya Ganelin', 'Ema Orhian', 'Kai Sasaki', 'Brennon York']"
+Kafka: The Definitive Guide,February,2016,0636920044123,"['Neha Narkhede', 'Gwen Shapira', 'Todd Palino']"
+"Elasticsearch Server, 3rd Edition",February,2016,9781785888816,"['Rafal Kuc', 'Marek Rogozinski']"
+Regression Analysis with Python,February,2016,9781785286315,"['Luca Massaron', 'Alberto Boschetti']"
+Real-Time Big Data Analytics,February,2016,9781784391409,"['Sumit Gupta', 'Shilpi']"
+F# for Machine Learning Essentials,February,2016,9781783989348,['Sudipta Mukherjee']
+"Advanced Oracle PL/SQL Developer's Guide, 2nd Edition",February,2016,9781785284809,['Saurabh K. Gupta']
+Learning Predictive Analytics with Python,February,2016,9781783983261,['Ashish Kumar']
+Getting Started with SQL,February,2016,0636920044994,['Thomas Nield']
+Data Wrangling with Python,February,2016,0636920032861,"['Jacqueline  Kazil', 'Katharine Jarmul']"
+"The Kimball Group Reader, 2nd Edition",February,2016,9781119216315,"['Ralph Kimball', 'Margy Ross']"
+Learning Scrapy,January,2016,9781784399788,['Dimitrios Kouzis-Loukas']
+Elasticsearch Essentials,January,2016,9781784391010,['Bharvi Dixit']
+Oracle SQL Developer,January,2016,9781785281273,['Ajith Narayanan']
+Geospatial Development By Example with Python,January,2016,9781785282355,['Pablo Carreira']
+Practical Machine Learning,January,2016,9781784399689,['Sunila Gollapudi']
+"Web Application Development with R Using Shiny, 2nd Edition",January,2016,9781782174349,['Chris Beeley']
+Scala for Data Science,January,2016,9781785281372,['Pascal Bugnion']
+QlikView Essentials,January,2016,9781784397289,['Chandraish Sinha']
+"Data Science, Banking, and Fintech",January,2016,0636920048589,['Cornelia L\xc3\xa9vy-Bencheton']
+Machine Learning Proceedings 1995,January,2016,9781558603776,['Machine Learning']
+Big Data Now: 2015 Edition,January,2016,0636920047926,"[""O'Reilly Media"", 'Inc.']"
+"MongoDB Cookbook, 2nd Edition",January,2016,9781785289989,"['Cyrus Dasadia', 'Amol Nayak']"
+R Data Science Essentials,January,2016,9781785286544,"['Raja B. Koushik', 'Sharan Kumar Ravindran']"
+Multiple Time Series Modeling Using the SAS VARMAX Procedure,January,2016,9781612908984,['Anders Milhoj']
+"Tableau Your Data!, 2nd Edition",January,2016,9781119001195,['Daniel G. Murray']
+Learning Hunk,December,2015,9781782174820,"['Dmitry Anoshin', 'Sergey Sheypak']"
+Pentaho Analytics for MongoDB Cookbook,December,2015,9781783553273,"['Joel Latino', 'Harris Ward']"
+Apache Solr for Indexing Data,December,2015,9781783553235,"['Sachin Handiekar', 'Anshul Johri']"
+Mathematica Data Analysis,December,2015,9781785884931,['Sergiy Suchok']
+Client-Side Data Storage,December,2015,0636920043676,['Raymond Camden']
+"Learning Qlik Sense®: The Official Guide, 2nd Edition",December,2015,9781785887161,"['Christopher Ilacqua', 'Henric Cronstrom', 'James Richardson']"
+Python Business Intelligence Cookbook,December,2015,9781785287466,['Robert Dempsey']
+ArcGIS Blueprints,December,2015,9781785286223,['Eric Pimpler']
+Fast Data Front Ends for Hadoop,December,2015,0636920044734,['Akmal Chaudhri']
+The New Relational Database Dictionary,December,2015,0636920048497,['C.J. Date']
+Sharing Big Data Safely,December,2015,0636920045571,"['Ted Dunning', 'Ellen Friedman']"
+Apache Oozie Essentials,December,2015,9781785880384,['Jagat Jasjit Singh']
+Big Data MBA,December,2015,9781119181118,['Bill Schmarzo']
+Educating Data,December,2015,0636920036579,['Helen Martin Taylor']
+"Modern Approaches to Clinical Trials Using SAS: Classical, Adaptive, and Bayesian Methods",December,2015,9781629593852,"['Sandeep Menon', 'Richard C. Zink']"
+Essential Statistics Using SAS University Edition,December,2015,9781629598437,"['Geoff Der', 'Brian S. Everitt']"
+Data Mapping for Data Warehouse Design,December,2015,9780128051856,['Qamar Shahbaz']
+Building Applications on Mesos,December,2015,0636920039952,['David Greenberg']
+Learning ArcGIS Pro,December,2015,9781785284496,['Tripp Corbin']
+Apache Kafka Cookbook,December,2015,9781785882449,['Saurabh Minni']
+SAP Data Services 4.x Cookbook,December,2015,9781782176565,['Ivan Shomnikov']
+Building Python Real-Time Applications with Storm,December,2015,9781784392857,"['Kartik Bhatnagar', 'Barry Hart']"
+Building Real-Time Data Pipelines,December,2015,0636920043805,"['Gary Orenstein', 'Conor Doherty', 'Kevin White', 'Steven Camina']"
+"Data Analysis Using SQL and Excel, 2nd Edition",December,2015,9781119021438,['Gordon S. Linoff']
+"Excel Data Analysis For Dummies, 3rd Edition",November,2015,9781119077206,"['Stephen L. Nelson', 'E. B. Nelson']"
+"Python Data Visualization Cookbook, 2nd Edition",November,2015,9781784396695,"['Igor Milovanovic', 'Dimitry Foures', 'Giuseppe Vettigli']"
+Creating Data Stories with Tableau Public,November,2015,9781849694766,"['Ashley Ohmann', 'Matt Floyd']"
+"Essential SQLAlchemy, 2nd Edition",November,2015,0636920035800,"['Jason Myers', 'Rick Copeland']"
+Qlik Sense® Cookbook,November,2015,9781782175148,"['Philip Hand', 'Neeraj Kharpate']"
+Test-Driven Machine Learning,November,2015,9781784399085,['Justin Bozonier']
+Oracle SOA Suite 12c Administrator's Guide,November,2015,9781782170860,"['Arun Pareek', 'Harold Dost', 'Ahmed Aboulnaga']"
+Data Lake Development with Big Data,November,2015,9781785888083,"['Pradeep Pasupuleti', 'Beulah Salome Purra']"
+Learning Couchbase,November,2015,9781785288593,['Henry Potsangbam']
+Apache Cassandra Essentials,November,2015,9781783989102,['Nitin Padalia']
+QlikView Unlocked,November,2015,9781785285127,"['Roger Stone', 'Andrew Dove']"
+"SQL and Relational Theory, 3rd Edition",November,2015,0636920046158,['C.J. Date']
+Fast Data: Smart and at Scale,November,2015,0636920045809,"['Ryan Betts', 'John Hugg']"
+Kibana Essentials,November,2015,9781784394936,['Yuvraj Gupta']
+Getting Started with Python Data Analysis,November,2015,9781785285110,"['Phuong Vo. T. H', 'Martin Czygan']"
+"Cassandra Design Patterns, 2nd Edition",November,2015,9781785285707,['Rajanarayanan Thottuvaikkatumana']
+Strategic Analytics,November,2015,9781626560550,['Alec Levenson']
+Introduction to Statistical Machine Learning,October,2015,9780128021217,['Masashi Sugiyama']
+Mastering Machine Learning with R,October,2015,9781783984527,['Cory Lesmeister']
+Data Analysis with Stata,October,2015,9781782173175,['Prasad Kothari']
+Learning Bayesian Models with R,October,2015,9781783987603,['Dr. Hari M. Koduvely']
+Learning to Love Data Science,October,2015,0636920044284,['Mike Barlow']
+Mastering Python Data Visualization,October,2015,9781783988327,['Kirthi Raman']
+Elasticsearch for Hadoop,October,2015,9781785288999,['Vishal Shukla']
+MariaDB Essentials,October,2015,9781783982868,"['Emilien Kenler', 'Federico Razzoli']"
+Managing the Data Lake,October,2015,0636920046325,['Andy Oram']
+Hidden Semi-Markov Models,October,2015,9780128027677,['Shun-Zheng Yu']
+Building Responsive Data Visualization for the Web,October,2015,9781119067146,['Bill Hinderman']
+"Learning IPython for Interactive Computing and Data Visualization, 2nd Edition",October,2015,9781783986989,['Cyrille Rossant']
+Data Science in the Cloud with Microsoft Azure Machine Learning and R: 2015 Update,October,2015,0636920044185,['Stephen F. Elston']
+Creating Stunning Dashboards with QlikView,October,2015,9781782175735,['Julian Villafuerte']
+Graphing Data with R,October,2015,0636920038382,['John Jay Hilfiger']
+Learning Shiny,October,2015,9781785280900,['Hernan G Resnizky']
+Tableau For Dummies,October,2015,9781119134794,"['Molly Monsey', 'Paul Sochan']"
+Data Science with Java,October,2015,0636920043171,['Michael R. Brzustowicz']
+Apache Mahout Clustering Designs,October,2015,9781783284436,['Ashish Gupta']
+Mastering Apache Spark,September,2015,9781783987146,['Mike Frampton']
+Mastering Data Analysis with R,September,2015,9781783982028,['Gergely Dar\xc3\xb3czi']
+Oracle API Management 12c Implementation,September,2015,9781785283635,"['Luis Augusto Weir', 'Andrew Bell', 'Rolando Carrasco', 'Arturo Viveros']"
+Building a Recommendation System with R,September,2015,9781783554492,"['Suresh K. Gorakala', 'Michele Usuelli']"
+QlikView for Finance,September,2015,9781784395742,['B. Diane Blackwood']
+Big Data for Chimps,September,2015,0636920039006,"['Philip (flip) Kromer', 'Russell Jurney']"
+Learning Real-time Processing with Spark Streaming,September,2015,9781783987665,['Sumit Gupta']
+DynamoDB Cookbook,September,2015,9781784393755,['Tanmay Deshpande']
+Learning Predictive Analytics with R,September,2015,9781782169352,['Eric Mayor']
+Mastering Social Media Mining with R,September,2015,9781784396312,"['Sharan Kumar Ravindran', 'Vikram Garg']"
+Python Machine Learning,September,2015,9781783555130,['Sebastian Raschka']
+Mastering ArcGIS Server Development with JavaScript,September,2015,9781784396459,['Ken Doman']
+An Introduction to SAS University Edition,September,2015,9781629597706,['Ron Cody']
+Building a Scalable Data Warehouse with Data Vault 2.0,September,2015,9780128025109,"['Dan Linstedt', 'Michael Olschimke']"
+PCI DSS 3.1,September,2015,9780128046272,['Branden R. Williams']
+Music Science,September,2015,0636920042471,['Alistair Croll']
+Mapping Big Data,September,2015,0636920041016,['Russell Jurney']
+2015 Data Science Salary Survey,September,2015,0636920041375,"['John King', 'Roger Magoulas']"
+Apache Spark Graph Processing,September,2015,9781784391805,['Rindra Ramamonjison']
+"Oracle PL/SQL Language Pocket Reference, 5th Edition",September,2015,0636920036913,"['Steven Feuerstein', 'Bill Pribyl', 'Chip Dawes']"
+SAP Lumira Essentials,September,2015,9781785281815,['Dmitry Anoshin']
+Clojure for Data Science,September,2015,9781784397180,['Henry Garner']
+Data Analytics in Sports,September,2015,0636920040910,['Janine Barlow']
+"Data, Money, and Regulation",September,2015,0636920042389,['Cornelia L\xc3\xa9vy-Bencheton']
+Mastering Python for Data Science,August,2015,9781784390150,['Samir Madhavan']
+Learning YARN,August,2015,9781784393960,"['Akhil Arora', 'Shrey Mehrotra']"
+ArcGIS By Example,August,2015,9781782175209,['Hussein Nasser']
+Structured Search for Big Data,August,2015,9780128046319,['Mikhail Gilula']
+Big Data Forensics – Learning Hadoop Investigations,August,2015,9781785288104,['Joe Sremack']
+Building Dynamics CRM 2015 Dashboards with Power BI,August,2015,9781785289101,['Steve Ivie']
+MongoDB for Java Developers,August,2015,9781785280276,['Francesco Marchioni']
+Python Data Science Handbook,August,2015,0636920034919,['Jake VanderPlas']
+Mastering Probabilistic Graphical Models Using Python,August,2015,9781784394684,"['Ankur Ankan', 'Abinash Panda']"
+Hadoop Backup and Recovery Solutions,July,2015,9781783289042,"['Gaurav Barot', 'Chintan Mehta', 'Amij Patel']"
+"PostgreSQL Replication, 2nd Edition",July,2015,9781783550609,['Hans-Jurgen Schonig']
+"Implementing Splunk, 2nd Edition",July,2015,9781784391607,"['Vincent Bumgarner', 'James D. Miller']"
+Spark Cookbook,July,2015,9781783987061,['Rishi Yadav']
+NLTK Essentials,July,2015,9781784396909,['Nitin Hardeniya']
+Oracle GoldenGate 12c Implementer's Guide,July,2015,9781785280474,['John P Jeffries']
+Neo4j Graph Data Modeling,July,2015,9781784393441,['Mahesh Lal']
+Creating a Data-Driven Organization,July,2015,0636920035848,['Carl Anderson']
+QlikView Your Business,July,2015,9781118949559,"['Oleg Troyansky', 'Tammy Gibson', 'Charlie Leichtweis']"
+Mastering Julia,July,2015,9781783553310,['Malcolm Sherrington']
+Accumulo,July,2015,0636920032304,"['Aaron Cordova', 'Billie Rinaldi', 'Michael Wall']"
+"Using JMP Student Edition, Third Edition",June,2015,9781629597584,['SAS Institute']
+Predictive Analytics Using Rattle and Qlik Sense,June,2015,9781784395803,['Ferran Garcia Pagans']
+Hadoop Application Architectures,June,2015,0636920033196,"['Mark Grover', 'Ted Malaska', 'Jonathan Seidman', 'Gwen Shapira']"
+Apache Mesos Essentials,June,2015,9781783288762,['Dharmesh Kakadia']
+Design Principles for Process-driven Architectures Using Oracle BPM and SOA Suite 12c,June,2015,9781849689441,"['Matjaz B. Juric', 'Sven Bernhardt', 'Hajo Normann', 'Danilo Schmiedel', 'Guido Schmutz', 'Mark Simpson', 'Torsten Winterberg']"
+Learning SAP BusinessObjects Dashboards,June,2015,9781785286629,['Taha M. Mahmoud']
+QGIS By Example,June,2015,9781782174677,"['Alexander Bruy', 'Daria Svidzinska']"
+Hadoop Security,June,2015,0636920033332,"['Ben  Spivey', 'Joey  Echeverria']"
+Learning Redis,June,2015,9781783980123,['Vinoo Das']
+Lucene 4 Cookbook,June,2015,9781782162285,"['Edwood Ng', 'Vineeth Mohan']"
+Oracle E-Business Suite R12.x HRMS – A Functionality Guide,June,2015,9781782177388,['Pravin S. Ingawale']
+Python Geospatial Analysis Essentials,June,2015,9781782174516,['Erik Westra']
+Python for Data Science For Dummies,June,2015,9781118844182,"['John Paul Mueller', 'Luca Massaron']"
+Apache Mahout Essentials,June,2015,9781783554997,['Jayani Withanawasam']
+Python Geospatial Development Essentials,June,2015,9781782175407,['Karim Bahgat']
+"Getting Started with MariaDB, 2nd Edition",June,2015,9781785284120,['Daniel Bartholomew']
+Fundamentals of Deep Learning,June,2015,0636920039709,['Nikhil Buduma']
+"Graph Databases, 2nd Edition",June,2015,0636920041832,"['Ian Robinson', 'Jim Webber', 'Emil Eifrem']"
+Sencha Charts Essentials,May,2015,9781785289767,['Ajit Kumar']
+Learning Cascading,May,2015,9781785288913,"['Michael Covert', 'Victoria Loewengart']"
+Learning Haskell Data Analysis,May,2015,9781784394707,['James Church']
+Neo4j Cookbook,May,2015,9781783287253,['Ankur Goel']
+Splunk Developer's Guide,May,2015,9781785285295,['Kyle Smith']
+"Apache Solr Enterprise Search Server, 3rd Edition",May,2015,9781782161363,"['David Smiley', 'Eric Pugh', 'Kranti Parisa', 'Matt Mitchell']"
+Mastering pandas for Finance,May,2015,9781783985104,['Michael Heydt']
+Clean Data,May,2015,9781785284014,['Megan Squire']
+The Last Mile of Analytics: Making the Leap from Platforms to Tools,May,2015,0636920034193,['Mike Barlow']
+"PROC TABULATE by Example, Second Edition",May,2015,9781607649908,"['Lauren Haworth Lake', 'Julie McKnight']"
+FileMaker Pro 14: The Missing Manual,May,2015,0636920036111,"['Susan Prosser', 'Stuart Gripman']"
+"SPSS Statistics for Dummies, 3rd Edition",May,2015,9781118989012,"['Keith McCormick', 'Jesus Salcedo']"
+Apache Oozie,May,2015,0636920030546,"['Mohammad Kamrul  Islam', 'Aravind Srinivasan']"
+Navigating the Health Data Ecosystem,May,2015,0636920040361,"[""O'Reilly Media"", 'Inc.']"
+Applied Microsoft Business Intelligence,May,2015,9781118961773,"['Patrick LeBlanc', 'Jessica  M.  Moss', 'Dejan Sarka', 'Dustin Ryan']"
+Data Quality for Analytics Using SAS,May,2015,9781607646204,['Gerhard Svolba']
+"PostgreSQL 9 Administration Cookbook, 2nd Edition",April,2015,9781849519069,"['Simon Riggs', 'Gianni Ciolli', 'Hannu Krosing', 'Gabriele Bartolini']"
+Python Data Science Essentials,April,2015,9781785280429,"['Alberto Boschetti', 'Luca Massaron']"
+Hadoop for Finance Essentials,April,2015,9781784395162,['Rajiv Tiwari']
+Hadoop Essentials,April,2015,9781784396688,['Shiva Achari']
+The Security Data Lake,April,2015,0636920040972,['Raffael  Marty']
+"Scaling Big Data with Hadoop and Solr, 2nd Edition",April,2015,9781783553396,['Hrishikesh Vijay Karambelkar']
+Data Visualization with D3 and AngularJS,April,2015,9781784398484,['Christoph Korner']
+PostGIS Essentials,April,2015,9781784395292,['Angel Marquez']
+Apache Solr Search Patterns,April,2015,9781783981847,['Jayant Kumar']
+Data Preparation for Analytics Using SAS,April,2015,9781599940472,['Gerhard Svolba']
+Cody's Collection of Popular SAS Programming Tasks and How to Tackle Them,April,2015,9781612903330,['Ron Cody']
+Elementary Statistics Using SAS,April,2015,9781607643791,['Sandra D. Schlotzhauer']
+"Cody's Data Cleaning Techniques Using SAS, Second Edition",April,2015,9781599946597,['Ron Cody']
+Analyzing Receiver Operating Characteristic Curves with SAS,April,2015,9781599942988,['Mithat Gonen']
+"SAS Programming for Enterprise Guide Users, Second Edition",April,2015,9781607645283,['Neil Constable']
+Learning pandas,April,2015,9781783985128,['Michael Heydt']
+"Oil, Gas, and Data",April,2015,0636920038504,['Daniel Cowles']
+Data Science from Scratch,April,2015,0636920033400,['Joel Grus']
+Jump Start MySQL,April,2015,9780992461287,['Timothy Boronczyk']
+HBase: The Definitive Guide,April,2015,0636920033943,['Lars George']
+Advanced Analytics with Spark,April,2015,0636920035091,"['Sandy  Ryza', 'Uri  Laserson', 'Sean Owen', 'Josh Wills']"
+"Fast Data Processing with Spark, 2nd Edition",March,2015,9781784392574,"['Krishna Sankar', 'Holden Karau']"
+Mastering QGIS,March,2015,9781784398682,"['GISP Kurt Menke', 'GISP Dr. Richard Smith Jr.', 'Luigi Pirelli', 'GISP Dr. John Van Hoesen']"
+SAP BusinessObjects Dashboards 4.1 Cookbook,March,2015,9781784391959,"['David Lai', 'Xavier Hacking']"
+PostgreSQL for Data Architects,March,2015,9781783288601,['Jayadevan Maymala']
+Real-time Analytics with Storm and Cassandra,March,2015,9781784395490,['Shilpi Saxena']
+R Packages,March,2015,0636920034421,['Hadley Wickham']
+"Hadoop: The Definitive Guide, 4th Edition",March,2015,0636920033448,['Tom White']
+Real-World Hadoop,March,2015,0636920038450,"['Ted Dunning', 'Ellen Friedman']"
+CMDB Systems,March,2015,9780128012659,"['Dennis Drogseth', 'Rick A Sturm', 'Dan Twing']"
+Multi-Domain Master Data Management,March,2015,9780128008355,"['Mark Allen', 'Dalton Cervo']"
+Data Visualization with JavaScript,March,2015,9781593276058,['Stephen A. Thomas']
+Field Guide to Hadoop,March,2015,0636920032830,"['Kevin  Sitto', 'Marshall Presser']"
+Neo4j High Performance,March,2015,9781783555154,['Sonal Raj']
+Discovering JMP 12,March,2015,9781629594309,['SAS Institute']
+JMP 12 Specialized Models,March,2015,9781629594743,['SAS Institute']
+JMP 12 Scripting Guide,March,2015,9781629594828,['SAS Institute']
+Using JMP 12,March,2015,9781629594781,['SAS Institute']
+JMP 12 Quality and Process Methods,March,2015,9781629594668,['SAS Institute']
+"Mastering Elasticsearch, 2nd Edition",February,2015,9781783553792,"['Rafal Kuc', 'Marek Rogozinski']"
+Data Science in the Cloud with Microsoft Azure Machine Learning and R,February,2015,0636920036029,['Stephen F. Elston']
+PostgreSQL Developer's Guide,February,2015,9781783989027,"['Ibrar Ahmed', 'Asif Fayyaz', 'Amjad Shahzad']"
+ArcPy and ArcGIS – Geospatial Analysis with Python,February,2015,9781783988662,['Silas Toms']
+"Learning Apache Kafka, 2nd Edition",February,2015,9781784393090,['Nishant Garg']
+Apache Solr Essentials,February,2015,9781784399641,['Andrea Gazzarini']
+Learning Apache Mahout Classification,February,2015,9781783554959,['Ashish Gupta']
+Apache Hive Essentials,February,2015,9781783558575,['Dayong Du']
+"Apache Flume: Distributed Log Collection for Hadoop, 2nd Edition",February,2015,9781784392178,['Steve Hoffman']
+Learning Apache Cassandra,February,2015,9781783989201,['Mat Brown']
+PowerShell for SQL Server Essentials,February,2015,9781784391492,['Donabel Santos']
+Couchbase Essentials,February,2015,9781784394493,['John Zablocki']
+"Hadoop MapReduce v2 Cookbook, 2nd Edition",February,2015,9781783285471,['Thilina Gunarathne']
+Splunk Essentials,February,2015,9781784398385,['Betsy Page Sigman']
+YARN Essentials,February,2015,9781784391737,"['Amol Fasale', 'Nirmal Kumar']"
+Data Science For Dummies,February,2015,9781118841556,['Lillian Pierson']
+TIBCO Spotfire – A Comprehensive Primer,February,2015,9781782176404,['Michael Phillips']
+Cognitive Computing and Big Data Analytics,February,2015,9781118896624,"['Judith Hurwitz', 'Marcia Kaufman', 'Adrian Bowles']"
+PostgreSQL Cookbook,January,2015,9781783555338,['Chitij Chauhan']
+"ElasticSearch Cookbook, 2nd Edition",January,2015,9781783554836,['Alberto Paro']
+Learning Spark,January,2015,0636920028512,"['Holden Karau', 'Andy Konwinski', 'Patrick  Wendell', 'Matei Zaharia']"
+"HDInsight Essentials, 2nd Edition",January,2015,9781784399429,['Rajesh Nadipalli']
+Blockchain,January,2015,0636920037040,['Melanie Swan']
+Learning Highcharts 4,January,2015,9781783287451,['Joe Kuan']
+Cython,January,2015,0636920033431,['Kurt W. Smith']
+NoSQL For Dummies,January,2015,9781118905746,['Adam Fowler']
+Customer Analytics For Dummies,January,2015,9781118937594,['Jeff Sauro']
+Data Driven,January,2015,0636920037293,"['DJ Patil', 'Hilary Mason']"
+Building Mapping Applications with QGIS,December,2014,9781783984664,['Erik Westra']
+Learning Informatica PowerCenter 9.x,December,2014,9781782176480,['Rahul Malewar']
+Learning D3.js Mapping,December,2014,9781783985609,"['Thomas Newton', 'Oscar Villarreal']"
+Mastering Hadoop,December,2014,9781783983643,['Sandeep Karanth']
+Cassandra High Availability,December,2014,9781783989126,['Robbie Strickland']
+Mastering SQL Server 2014 Data Mining,December,2014,9781849688949,"['Amarpreet Singh Bassan', 'Debarchan Sarkar']"
+Cassandra Data Modeling and Analysis,December,2014,9781783988884,['C. Y. Kan']
+HBase Design Patterns,December,2014,9781783981045,"['Mark Kerzner', 'Sujee Maniyam']"
+Data Science and Big Data Analytics,December,2014,9781118876138,['EMC Education Services']
+Sharing Data and Models in Software Engineering,December,2014,9780124172951,"['Tim Menzies', 'Ekrem Kocaguneli', 'Burak Turhan', 'Leandro Minku', 'Fayola Peters']"
+Mastering Splunk,December,2014,9781782173830,['James D. Miller']
+Data: Emerging Trends and Technologies,December,2014,0636920037163,['Alistair Croll']
+OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide,December,2014,9781118957400,"['Jeanne Boyarsky', 'Scott Selikoff']"
+eXist,December,2014,0636920026525,"['Erik Siegel', 'Adam Retter']"
+Getting a Big Data Job For Dummies,December,2014,9781118903407,['Jason Williamson']
+"PostgreSQL: Up and Running, 2nd Edition",December,2014,0636920032144,"['Regina O. Obe', 'Leo S. Hsu']"
+Reliability Assurance of Big Data in the Cloud,December,2014,9780128025727,"['Yun Yang', 'Wenhao Li', 'Dong Yuan']"
+"Learning QGIS, 2nd Edition",December,2014,9781784392031,['Anita Graser']
+"Joe Celko's SQL for Smarties, 5th Edition",December,2014,9780128007617,['Joe Celko']
+Mastering Bitcoin,December,2014,0636920032281,['Andreas M.  Antonopoulos']
+"JMP Essentials, 2nd Edition",December,2014,9781612907857,"['Curt Hinrichs', 'Chuck Boiler']"
+Introduction to Regular Expressions in SAS,December,2014,9781612909042,['CAP Matthew Windham']
+"SAS Certification Prep Guide, 4th Edition",December,2014,9781629593548,['SAS Institute']
+Test Scoring and Analysis Using SAS,December,2014,9781612909240,"['EdD Ron Cody', 'Jeffrey Smith']"
+"The Essential Guide to SAS Dates and Times, Second Edition, 2nd Edition",December,2014,9781629590660,['Derek P. Morgan']
+MongoDB Cookbook,November,2014,9781782161943,['Amol Nayak']
+Natural Language Processing with Java and LingPipe Cookbook,November,2014,9781783284672,"['Breck Baldwin', 'Krishna Dayanidhi']"
+GeoServer Cookbook,November,2014,9781783289615,['Stefano Iacovella']
+Predictive Analytics and Data Mining,November,2014,9780128014608,"['Vijay Kotu', 'Bala Deshpande']"
+Mastering QlikView,November,2014,9781782173298,['Stephen Redmond']
+Data Architecture: A Primer for the Data Scientist,November,2014,9780128020449,"['W. H. Inmon', 'Dan Linstedt']"
+Mastering GeoServer,November,2014,9781783287697,['Colin Henderson']
+Information Security Analytics,November,2014,9780128002070,"['Mark Talabis', 'Robert S. McPherson', 'Inez Miyamoto', 'Jason Martin']"
+Learning HBase,November,2014,9781783985944,['Shashwat Shriparv']
+Fast Data and the New Enterprise Data Architecture,November,2014,0636920035312,['Scott  Jarr']
+Enterprise Business Intelligence and Data Warehousing,November,2014,9780128015407,['Alan Simon']
+RDF Database Systems,November,2014,9780127999579,"['Olivier Cur\xc3\xa9', 'Guillaume Blin']"
+Text Mining and Analysis,November,2014,9781612905518,"['Goutam Chakraborty', 'Murali Pagolu', 'Satish Garla']"
+IPython Notebook Essentials,November,2014,9781783988341,['L. Felipe Martins']
+Time Series Databases: New Ways to Store and Access Data,November,2014,0636920035435,"['Ted Dunning', 'Ellen Friedman']"
+"Innovation, Security, and Compliance in a World of Big Data",November,2014,0636920035374,['Mike Barlow']
+2014 Data Science Salary Survey,November,2014,0636920036449,"['John King', 'Roger Magoulas']"
+Social Data Analytics,November,2014,9780123971869,"['Krish Krishnan', 'Shawn B. Rogers']"
+Behind Every Good Decision,November,2014,9780814449219,"['Piyanka Jain', 'Puneet Sharma']"
+scikit-learn Cookbook,November,2014,9781783989485,['Trent Hauck']
+Business Intelligence Guidebook,November,2014,9780124114616,['Rick Sherman']
+Highcharts Essentials,October,2014,9781783983964,['Bilal Shahid']
+Learning Big Data with Amazon Elastic MapReduce,October,2014,9781782173434,"['Amarkant Singh', 'Vijay Rayapati']"
+Mastering Machine Learning with scikit-learn,October,2014,9781783988365,['Gavin Hackeling']
+Python Data Analysis,October,2014,9781783553358,['Ivan Idris']
+Making Big Data Work for Your Business,October,2014,9781783000982,['Sudhi Sinha']
+PostgreSQL Administration Essentials,October,2014,9781783988983,['Hans-Jurgen Schonig']
+Oracle Solaris 11 Advanced Administration Cookbook,October,2014,9781849688260,['Alexandre Borges']
+Content Audits and Inventories,October,2014,9781937434397,['Paula Ladenburg Land']
+Administrative Healthcare Data,October,2014,9781612908861,"['Craig Dickstein', 'Renu Gehring']"
+Data Fluency,September,2014,9781118851012,"['Zach Gemignani', 'Chris Gemignani', 'Richard Galentino', 'Patrick Schuermann']"
+Practical Data Science Cookbook,September,2014,9781783980246,"['Tony Ojeda', 'Sean Murphy', 'Benjamin Bengfort', 'Abhijit Dasgupta']"
+Mathematica Data Visualization,September,2014,9781783282999,['Nazmus Saquib']
+Getting Started with Impala,September,2014,0636920033936,['John Russell']
+Data Science at the Command Line,September,2014,0636920032823,['Jeroen Janssens']
+Creating Universes with SAP BusinessObjects,September,2014,9781782170907,['Taha M. Mahmoud']
+IPython Interactive Computing and Visualization Cookbook,September,2014,9781783284818,['Cyrille Rossant']
+Guerrilla Analytics,September,2014,9780128002186,['Enda Ridge']
+Redis Applied Design Patterns,September,2014,9781783286713,['Arun Chinnachamy']
+DynamoDB Applied Design Patterns,September,2014,9781783551897,"['Uchit Vyas', 'Prabhakaran Kuppusamy']"
+I Heart Logs,September,2014,0636920034339,['Jay Kreps']
+MariaDB High Performance,September,2014,9781783981601,['Pierre MAVRO']
+Using Flume,September,2014,0636920030348,['Hari Shreedharan']
+Designing Data-Intensive Applications,September,2014,0636920032175,['Martin Kleppmann']
+Modern Enterprise Business Intelligence and Data Management,August,2014,9780128015391,['Alan Simon']
+Professional Microsoft SQL Server 2014 Administration,August,2014,9781118859131,"['Adam Jorgensen', 'Bradley Ball', 'Steven Wort', 'Ross LoForte', 'Brian Knight']"
+Learning Storm,August,2014,9781783981328,"['Ankit Jain', 'Anand Nalya']"
+SAP BusinessObjects Reporting Cookbook,August,2014,9781782172437,['Yoav Yahav']
+Learning jqPlot,August,2014,9781783981168,['Scott Gottreu']
+Learning Python Data Visualization,August,2014,9781783553334,['Chad Adams']
+Mastering D3.js,August,2014,9781783286270,['Pablo Navarro Castillo']
+Learning Neo4j,August,2014,9781849517164,['Rik Van Bruggen']
+Mastering DynamoDB,August,2014,9781783551958,['Tanmay Deshpande']
+Bitemporal Data,August,2014,9780124080676,['Tom Johnston']
+Practical Machine Learning: Innovations in Recommendation,August,2014,0636920033172,"['Ted Dunning', 'Ellen Friedman']"
+"Time and Relational Theory, 2nd Edition",August,2014,9780128006313,"['C. J. Date', 'Hugh Darwen', 'Nikos Lorentzos']"
+Applied SOA Patterns on the Oracle Platform,August,2014,9781782170563,['Sergey Popov']
+OCP: Oracle Database 12c Administrator Certified Professional Study Guide,August,2014,9781118644072,"['Robert G. Freeman', 'Charles A. Pack']"
+"MySQL Cookbook, 3rd Edition",July,2014,0636920032274,['Paul DuBois']
+SQL Server 2014 Development Essentials,July,2014,9781782172550,['Basit A. Masood-Al-Farooq']
+Scaling Apache Solr,July,2014,9781783981748,['Hrishikesh Vijay Karambelkar']
+MongoDB High Availability,July,2014,9781783986729,['Afshin Mehrabani']
+Practical Machine Learning: A New Look at Anomaly Detection,July,2014,0636920034650,"['Ted Dunning', 'Ellen Friedman']"
+Cloudera Administration Handbook,July,2014,9781783558964,['Rohit Menon']
+PostgreSQL 9 High Availability Cookbook,July,2014,9781849516969,['Shaun M. Thomas']
+Representations of Commonsense Knowledge,July,2014,9781558600331,['Ernest Davis']
+Principles of Semantic Networks,July,2014,9781483207711,['John F. Sowa']
+Risk-Based Monitoring and Fraud Detection in Clinical Trials Using JMP and SAS,July,2014,9781612909912,['Richard C. Zink']
+"Practical Data Analysis with JMP, 2nd Edition",July,2014,9781612908236,['Robert Carver']
+Multiple Imputation of Missing Data Using SAS,July,2014,9781612904528,"['Patricia Berglund', 'Steven G. Heeringa']"
+Case-Based Reasoning,June,2014,9781558602373,['Janet Kolodner']
+Machine Learning Proceedings 1994,June,2014,9781558603356,['William A. Cohen']
+Readings in Artificial Intelligence and Databases,June,2014,9780934613538,"['John Mylopoulos', 'Michael L. Brodie']"
+Uncertainty in Artificial Intelligence,June,2014,9781558602038,"[""Bruce D'Ambrosio"", 'Philippe Smets', 'Piero Patrone Bonissone']"
+Machine Learning Proceedings 1992,June,2014,9781558602472,['Machine Learning']
+FileMaker Pro 13: The Missing Manual,June,2014,0636920033271,"['Susan Prosser', 'Stuart Gripman']"
+Learning ArcGIS Geodatabases,June,2014,9781783988648,['Hussein Nasser']
+Pentaho Business Analytics Cookbook,June,2014,9781783289356,['Sergio Ramazzina']
+Real-Time Analytics,June,2014,9781118837917,['Byron Ellis']
+Communicating Data with Tableau,June,2014,0636920030942,['Ben Jones']
+Hands-On Programming with R,June,2014,0636920028574,['Garrett Grolemund']
+Infographics For Dummies,June,2014,9781118792384,['MBA Justin Beegel']
+Readings in Distributed Artificial Intelligence,June,2014,9780934613637,"['Alan Bond', 'Les Gasser']"
+"SAS Macro Programming Made Easy, 3rd Edition",June,2014,9781612906935,['Michele M. Burlew']
+Microsoft SQL Server 2014 Business Intelligence Development Beginner’s Guide,May,2014,9781849688888,['Reza Rad']
+Machine Learning Proceedings 1990,May,2014,9781558601413,['Machine Learning']
+Google BigQuery Analytics,May,2014,9781118824825,"['Jordan Tigani', 'Siddartha Naidu']"
+HP Vertica Essentials,May,2014,9781782171560,['Rishabh Agrawal']
+Learning Cypher,May,2014,9781783287758,['Onofrio Panzarino']
+Readings in Artificial Intelligence,May,2014,9780934613033,"['Bonnie Lynn Webber', 'Nils J. Nilsson']"
+Artificial Intelligence and Tutoring Systems,May,2014,9780934613262,['Etienne Wenger']
+Machine Learning Methods for Planning,May,2014,9781483207742,['Steven Minton']
+Machine Learning Methods for Planning,May,2014,9781558602489,['Steven Minton']
+Theoretical Aspects of Reasoning About Knowledge,May,2014,9780934613040,['Joseph Y. Halpern']
+Introduction to Parallel Algorithms and Architectures,May,2014,9781483207728,['F. Thomson Leighton']
+"SAS Programming with Medicare Administrative Data, 2nd Edition",May,2014,9781612903224,['Matthew Gillingham']
+Getting Started with SQL Server 2014 Administration,April,2014,9781782172413,['Gethyn Ellis']
+Clojure for Machine Learning,April,2014,9781783284351,['Akhil Wali']
+Microsoft Business Intelligence Tools for Excel Analysts,April,2014,9781118821527,"['Michael Alexander', 'Jared Decker', 'Bernard Wehbe']"
+Pig Design Patterns,April,2014,9781783285556,['Pradeep Pasupuleti']
+Getting Started with SOQL,April,2014,9781783287352,['Magulan D']
+"MySQL High Availability, 2nd Edition",April,2014,0636920026907,"['Charles Bell', 'Mats Kindahl', 'Lars Thalmann']"
+OCA: Oracle Database 12c Administrator Certified Associate Study Guide,April,2014,9781118643952,['Biju Thomas']
+Professional Microsoft SQL Server 2014 Integration Services,April,2014,9781118850879,"['Brian Knight', 'Devin Knight', 'Jessica  M.  Moss', 'Mike Davis', 'Chris  Rock']"
+Applied Predictive Analytics,March,2014,9781118727966,['Dean Abbott']
+matplotlib Plotting Cookbook,March,2014,9781849513265,['Alexandre Devert']
+Oracle ADF Faces Cookbook,March,2014,9781849689229,['Amr Gawish']
+It's Not the Size of the Data -- It's How You Use It,March,2014,9780814433959,['KOEN PAUWELS']
+Storm Blueprints: Patterns for Distributed Real-time Computation,March,2014,9781782168294,"['P. Taylor Goetz', ""Brian O'Neill""]"
+Apache Solr High Performance,March,2014,9781782164821,['Surendra Mohan']
+Developing Analytic Talent,March,2014,9781118810088,['Vincent Granville']
+MariaDB Cookbook,March,2014,9781783284399,['Daniel Bartholomew']
+Highcharts Cookbook,March,2014,9781783559688,['Nicholas Terwoord']
+Predictive Analytics For Dummies,March,2014,9781118728963,"['Anasse Bari', 'Mohamed Chaouchi', 'Tommy Jung']"
+FlowingData.com Data Visualization Set,March,2014,9781118906705,['Nathan Yau']
+ODS Techniques,March,2014,9781612908540,['Kevin T. Smith']
+"SAS Programming in the Pharmaceutical Industry, 2nd Edition",March,2014,9781612906041,['Jack Shostak']
+Expert Cube Development with SSAS Multidimensional Models,February,2014,9781849689908,"['Chris Webb', 'Alberto Ferrari', 'Marco Russo']"
+Optimizing Hadoop for MapReduce,February,2014,9781783285655,['Khaled Tannir']
+Talend for Big Data,February,2014,9781782169499,['Bahaaldine Azarmi']
+Minitab Cookbook,February,2014,9781782170921,['Isaac Newton']
+Pentaho Analytics for MongoDB,February,2014,9781782168355,['Bo Borland']
+"Oracle ADF Enterprise Application Development – Made Simple, 2nd Edition",February,2014,9781782176800,['Sten E. Vesterli']
+Microsoft Big Data Solutions,February,2014,9781118729083,"['Adam Jorgensen', 'James Rowland-Jones', 'John C. Welch', 'Dan Clark', 'Christopher Price', 'Brian Mitchell']"
+Building Web and Mobile ArcGIS Server Applications with JavaScript,February,2014,9781849697965,['Eric Pimpler']
+Data Crush,February,2014,9780814433744,['Christopher Surdak']
+2013 Data Science Salary Survey,February,2014,0636920032960,"['John King', 'Roger Magoulas']"
+"JMP 11 Scripting Guide, 2nd Edition",February,2014,9781612909363,['SAS Institute']
+"Using JMP 11, 2nd Edition",February,2014,9781612909356,['SAS Institute']
+"JMP 11 JSL Syntax Reference, 2nd Edition",February,2014,9781612909349,['SAS Institute']
+Commercial Data Mining,January,2014,9780124166028,['David Nettleton']
+Cassandra Design Patterns,January,2014,9781783288809,['Sanjay K. Sharma']
+Administering ArcGIS for Server,January,2014,9781782177364,['Hussein Nasser']
+PostGIS Cookbook,January,2014,9781849518666,"['Paolo Corti', 'Thomas J. Kraft', 'Stephen Vincent Mather', 'Bborie Park']"
+"Ask, Measure, Learn",January,2014,0636920026488,"['Lutz Finger', 'Soumitra  Dutta']"
+"Oracle PL/SQL Programming, 6th Edition",January,2014,0636920024859,"['Steven Feuerstein', 'Bill Pribyl']"
+Thinking with Data,January,2014,0636920029182,['Max Shron']
+Data-Driven Security,January,2014,9781118793725,"['Jay Jacobs', 'Bob Rudis']"
+Data Visualization For Dummies,January,2014,9781118502891,"['Mico Yuk', 'Stephanie Diamond']"
+Freemium Economics,December,2013,9780124166905,['Eric Benjamin Seufert']
+Apache Solr Beginner's Guide,December,2013,9781782162520,['Alfredo Serafini']
+Oracle Fusion Applications Administration Essentials,December,2013,9781849686860,"['Faisal Ghadially', 'Kalpit Parikh']"
+Apache Mahout Cookbook,December,2013,9781849518024,['Piero Giacomelli']
+SQL Server Analysis Services 2012 Cube Development Cookbook,December,2013,9781849689809,"['Baya Dewald', 'Steve Hughes', 'Paul Turley']"
+Instant Redis Persistence,December,2013,9781783280216,['Matt Palmer']
+Discovering Business Intelligence Using MicroStrategy 9,December,2013,9781782170044,"['Nelson Enriquez', 'Samundar Singh Rathore']"
+ElasticSearch Cookbook,December,2013,9781782166627,['Alberto Paro']
+Learning Cloudera Impala,December,2013,9781783281275,['Avkash Chauhan']
+SAP HANA Cookbook,December,2013,9781782177623,"['Chandrasekhar Mankala', 'Ganesh Mahadevan V.']"
+PROC REPORT by Example: Techniques for Building Professional Reports Using SAS,December,2013,9781612907840,['Lisa Fine']
+"Predictive Modeling with SAS Enterprise Miner, 2nd Edition",December,2013,9781607647676,['Kattamuri S. Sarma PhD']
+Getting Started with Oracle VM VirtualBox,December,2013,9781782177821,['Pradyumna Dash']
+Anonymizing Health Data,December,2013,0636920029229,"['Khaled El Emam', 'Luk Arbuckle']"
+Programming Elastic MapReduce,December,2013,0636920029304,"['Kevin Schmidt', 'Christopher Phillips']"
+Information Management,November,2013,9780124080560,['William McKnight']
+Pentaho for Big Data Analytics,November,2013,9781783282159,"['Manoj R Patil', 'Feris Thia']"
+Exploring Data with RapidMiner,November,2013,9781782169338,['Andrew Chisholm']
+Apache Solr PHP Integration,November,2013,9781782164920,['Jayant Kumar']
+Big Data Analytics with R and Hadoop,November,2013,9781782163282,['Vignesh Prajapati']
+Learning Cassandra for Administrators,November,2013,9781782168171,['Vijay Parthasarathy']
+Hadoop Cluster Deployment,November,2013,9781783281718,['Danil Zburivsky']
+PowerPivot for Advanced Reporting and Dashboards,November,2013,9781849698689,['Robert Bosco J']
+Python Data Visualization Cookbook,November,2013,9781782163367,['Igor Milovanovic']
+Securing Hadoop,November,2013,9781783285259,['Sujoy Acharya']
+"Pentaho Data Integration Cookbook, 2nd Edition",November,2013,9781783280674,"['Alex Meadows', 'Adrian Sergio Pulvirenti', 'Maria Carina Roldan']"
+Getting Started with LevelDB,November,2013,9781783281015,['Andy Dent']
+PROC DOCUMENT by Example Using SAS,October,2013,9781607646679,['Michael Tuchman']
+Data Smart,October,2013,9781118661468,['John W. Foreman']
+"PROC SQL: Beyond the Basics Using SAS, 2nd Edition",October,2013,9781612900278,['Kirk Paul Lafler']
+Data Visualization with d3.js,October,2013,9781782160007,['Swizec Teller']
+Talend Open Studio Cookbook,October,2013,9781782167266,['Rick Barton']
+Instant JQuery Flot Visual Data Analysis,October,2013,9781783280650,['Brian Peiris']
+Business Intelligence with MicroStrategy Cookbook,October,2013,9781782179757,['Davide Moraschi']
+Mastering Apache Cassandra,October,2013,9781782162681,['Nishant Neeraj']
+SQL Server 2012 Reporting Services Blueprints,October,2013,9781849685085,"['Marlon Ribunal', 'Mickey Stuewe']"
+Reporting with Visual Studio and Crystal Reports,October,2013,9781782178026,['Mahmoud Elkoush']
+Machine Learning with R,October,2013,9781782162148,['Brett Lantz']
+"Oracle APEX Cookbook, 2nd Edition",October,2013,9781782179672,"['Marcel van der Plas', 'Michel van Zoest']"
+TIBCO Spotfire for Developers,October,2013,9781782179832,['Manuel Xavier']
+Data Visualization with D3.js Cookbook,October,2013,9781782162162,['Nick Qi Zhu']
+Oracle 12c For Dummies,October,2013,9781118745311,"['Chris Ruel', 'Wessler']"
+"Pentaho Data Integration Beginner's Guide, 2nd Edition",October,2013,9781782165040,['Maria Carina Roldan']
+IBM SPSS Modeler Cookbook,October,2013,9781849685467,"['Keith McCormick', 'Dean Abbott', 'Meta S. Brown', 'Tom Khabaza', 'Scott R. Mutchler']"
+Getting Started with Greenplum for Big Data Analytics,October,2013,9781782177043,['Sunila Gollapudi']
+Fast Data Processing with Spark,October,2013,9781782167068,['Holden Karau']
+Getting Started with the Graph Template Language in SAS,October,2013,9781612907123,['Sanjay Matange']
+Practical Data Analysis,October,2013,9781783280995,['Hector Cuesta']
+Cool Infographics,October,2013,9781118582305,['Randy Krum']
+Tableau Your Data!,October,2013,9781118612040,['Daniel G. Murray']
+Apache Kafka,October,2013,9781782167938,['Nishant Garg']
+KNIME Essentials,October,2013,9781849699211,['Gabor Bakos']
+Administrating Solr,October,2013,9781783283255,['Surendra Mohan']
+Agile Data Science,October,2013,0636920025054,['Russell Jurney']
+Design and Analysis of Experiments by Douglas Montgomery: A Supplement for Using JMP,October,2013,9781612907253,"['Heath Rushing', 'Andrew Karl', 'James Wisnowski']"
+Doing Data Science,October,2013,0636920028529,"[""Cathy O'Neil"", 'Rachel Schutt']"
+Joe Celko’s Complete Guide to NoSQL,October,2013,9780124071926,['Joe Celko']
+Discovering Partial Least Squares with JMP,October,2013,9781612908229,"['Ian Cox', 'Marie Gaudard']"
+Oracle Goldengate 11g Complete Cookbook,September,2013,9781849686143,['Ankur Gupta']
+Social Data Visualization with HTML5 and JavaScript,September,2013,9781782166542,['Simon Timms']
+Applying and Extending Oracle Spatial,September,2013,9781849686365,"['Simon Greener', 'Siva Ravada']"
+Instant Cassandra Query Language,September,2013,9781783282715,['Amresh Singh']
+Network Graph Analysis and Visualization with Gephi,September,2013,9781783280131,['Ken Cherven']
+Oracle Database 12c Backup and Recovery Survival Guide,September,2013,9781782171201,"['Francisco Munoz Alvarez', 'Aman Sharma']"
+HDInsight Essentials,September,2013,9781849695367,['Rajesh Nadipalli']
+Getting Started with Oracle WebLogic Server 12c: Developer's Guide,September,2013,9781849686969,"['Fabio Mazanatti Nunes', 'William Markito Oliveira']"
+Getting Started with Oracle Public Cloud,September,2013,9781782178101,['Hemant Kumar Mehta']
+Big Data,September,2013,9781118739570,['Bill Schmarzo']
+Oracle SOA Governance 11g Implementation,September,2013,9781849689083,"['Luis Augusto Weir', 'Andrew Bell']"
+Learning QGIS 2.0,September,2013,9781782167488,['Anita Graser']
+Data Stewardship,September,2013,9780124103894,['David Plotkin']
+Getting Started with SQL Server 2012 Cube Development,September,2013,9781849689502,['Simon Lidberg']
+Think Bayes,September,2013,0636920030720,['Allen  B. Downey']
+Using OpenRefine,September,2013,9781783289080,"['Ruben Verborgh', 'Max De Wilde']"
+JMP 11 Fitting Linear Models ,September,2013,9781612906690,['SAS Institute']
+JMP 11 Multivariate Methods,September,2013,9781612906607,['SAS Institute']
+JMP 11 Basic Analysis,September,2013,9781612906706,['SAS Institute']
+JMP 11 Essential Graphing,September,2013,9781612906713,['SAS Institute']
+JMP 11 Quality and Process Methods ,September,2013,9781612906737,['SAS Institute']
+JMP 11 Profilers ,September,2013,9781612906669,['SAS Institute']
+"Oracle Essentials, 5th Edition",September,2013,0636920027737,"['Rick Greenwald', 'Robert Stackowiak', 'Jonathan Stern']"
+JMP 11 Specialized Models,September,2013,9781612906683,['SAS Institute']
+JMP 11 Consumer Research,September,2013,9781612906614,['SAS Institute']
+JMP 11 Reliability and Survival Methods ,September,2013,9781612906720,['SAS Institute']
+RavenDB 2.x Beginner's Guide,September,2013,9781783283798,['Khaled Tannir']
+SAS Macro Language Magic,August,2013,9781612907109,['Robert Virgile']
+Total Information Risk Management,August,2013,9780124055476,"['Alexander Borek', 'Ajith Kumar Parlikad', 'Jela Webb', 'Philip Woodall']"
+Professional Hadoop Solutions,August,2013,9781118611937,"['Boris Lublinsky', 'Kevin T. Smith', 'Alexey Yakubovich']"
+How to Become a Top SAS Programmer,August,2013,9781612901046,['Michael A. Raithel']
+Storm Real-Time Processing Cookbook,August,2013,9781782164425,['Quinton Anderson']
+"MDX with SSAS 2012 Cookbook, 2nd Edition",August,2013,9781849689601,"['Sherry Li', 'Tomislav Piasevoli']"
+"IBM Cognos 10 Report Studio Cookbook, 2nd Edition",August,2013,9781849688208,"['Ahmed Lashin', 'Abhishek Sanghani']"
+Instant Microsoft SQL Server Analysis Service 2012 Dimensions and Cube,August,2013,9781849688727,['Anurag Acharya']
+Oracle APEX 4.2 Reporting,August,2013,9781849684989,['Vishal Pathak']
+Instant Apache Sqoop,August,2013,9781782165767,['Ankit Jain']
+Scaling Big Data with Hadoop and Solr,August,2013,9781783281374,['Hrishikesh Vijay Karambelkar']
+RavenDB High Performance,August,2013,9781782166986,['Brian Ritchie']
+PostgreSQL Replication,August,2013,9781849516723,"['Zoltan Boszormenyi', 'Hans-Jurgen Schonig']"
+Microsoft SQL Server 2012 with Hadoop,August,2013,9781782177982,['Debarchan Sarkar']
+Instant MDX Queries for SQL Server 2012,August,2013,9781782178064,['Nicholas Emond']
+Tableau Data Visualization Cookbook,August,2013,9781849689786,['Ashutosh Nandeshwar']
+Developing Web Applications with Oracle ADF Essentials,August,2013,9781782170686,['Sten E. Vesterli']
+Big Data Analytics,August,2013,9780124173194,['David Loshin']
+SAS Business Intelligence for the Health Care Industry,August,2013,9781612903231,['Renu Gehring']
+Pentaho 5.0 Reporting By Example Beginner's Guide,August,2013,9781782162247,"['Mariano Garcia Mattio', 'Dario R. Bernabeu']"
+"SQL For Dummies, 8th Edition",August,2013,9781118607961,['Allen G. Taylor']
+Instant Highcharts,July,2013,9781849697545,['Cyril Grandjean']
+Building Machine Learning Systems with Python,July,2013,9781782161400,"['Willi Richert', 'Luis Pedro Coelho']"
+Instant MongoDB,July,2013,9781782169703,['Amol Nayak']
+Instant QlikView 11 Application Development,July,2013,9781849689649,['B. Diane Blackwood']
+Hadoop Operations and Cluster Management Cookbook,July,2013,9781782165163,['Shumin Guo']
+Instant Oracle GoldenGate,July,2013,9781782170242,['Tony Bruzzese']
+Segmentation and Lifetime Value Models Using SAS,July,2013,9781612906966,['Edward C. Malthouse']
+Apache Flume: Distributed Log Collection for Hadoop,July,2013,9781782167914,['Steve Hoffman']
+Getting Started with Oracle SOA B2B Integration: A Hands-On Tutorial,July,2013,9781849688864,"['Krishnaprem Bhatia', 'Scott Philip Haaland', 'Alan Perlovsky']"
+Enterprise Data Workflows with Cascading,July,2013,0636920028536,['Paco Nathan']
+Software Development on the SAP HANA Platform,July,2013,9781849689403,['Mark Walker']
+Decision Trees for Analytics Using SAS Enterprise Miner,July,2013,9781612903156,"['Barry de Ville', 'Padraic Neville']"
+"Learning SPARQL, 2nd Edition",July,2013,0636920030829,['Bob DuCharme']
+Apache Sqoop Cookbook,July,2013,0636920029519,"['Kathleen Ting', 'Jarek Jarcec Cecho']"
+Business Analysis For Dummies,July,2013,9781118510582,"['Kupe Kupersmith', 'Paul Mulvey', 'Kate McGoey']"
+Oracle Data Guard 11gR2 Administration Beginner's Guide,June,2013,9781849687904,"['Emre Baransel', 'Nassyam Basha']"
+QlikView for Developers Cookbook,June,2013,9781782179733,['Stephen Redmond']
+Learning SQL Server Reporting Services 2012,June,2013,9781849689922,['Jayaram Krishnaswamy']
+Instant Weka How-to,June,2013,9781782163862,['Bostjan Kaluza']
+Oracle SOA BPEL Process Manager 11gR1-A Hands-on Tutorial,June,2013,9781849688987,"['Ravi Saraswathi', 'Jaswant Singh']"
+Oracle WebLogic Server 12c Advanced Administration Cookbook,June,2013,9781849686846,['Dalton Iwazaki']
+Oracle Business Intelligence 11g R1 Cookbook,June,2013,9781849686006,['Cuneyt Yilmaz']
+Getting Started With Amazon Redshift,June,2013,9781782178088,['Stefan Bauer']
+Analyzing the Analyzers,June,2013,0636920029014,"['Harlan Harris', 'Sean Murphy', 'Marck Vaisman']"
+Instant Apache Solr for Indexing Data How-to,June,2013,9781782164845,['Alexandre Rafalovitch']
+Getting Started with Oracle Tuxedo,June,2013,9781849686884,['Biru Chattopadhayay']
+Instant Apache Hive Essentials How-to,June,2013,9781782169475,['Darren Lee']
+Instant Data Intensive Apps with Pandas How-to,May,2013,9781782165583,['Trent Hauck']
+Instant MapReduce Patterns - Hadoop Essentials How-to,May,2013,9781782167709,['Srinath Perera']
+Oracle Data Integrator 11g Cookbook ,May,2013,9781849681742,"['Christophe Dupupet', 'Peter C. Boyd-Bowman', 'Denis Gray', 'Julien Testut']"
+"MongoDB: The Definitive Guide, 2nd Edition",May,2013,0636920028031,['Kristina Chodorow']
+Implementing Analytics,May,2013,9780124016965,['Nauman Sheikh']
+Data Warehousing in the Age of Big Data,May,2013,9780124058910,['Krish Krishnan']
+Learning IPython for Interactive Computing and Data Visualization,April,2013,9781782169932,['Cyrille Rossant']
+Oracle ADF 11gR2 Development Beginner's Guide,April,2013,9781849689007,['Vinod Krishnan']
+Instant Oracle BPM for Financial Services How-to,April,2013,9781782170143,['B. M. Madhusudhan Rao']
+Instant PostgreSQL Starter,April,2013,9781782167563,['Daniel K. Lyons']
+The Case for the Chief Data Officer,April,2013,9780124114630,"['Peter Aiken', 'Michael M. Gorman']"
+Simulating Data with SAS,April,2013,9781612903323,['Rick Wicklin']
+"JMP for Basic Univariate and Multivariate Statistics, 2nd Edition",April,2013,9781612906034,"['Ann W. Lehman', ""Norm O'Rourke Ph.D."", 'R.Psych.', 'Larry Hatcher Ph.D.', 'Edward J. Stepanski Ph.D.']"
+PROC TEMPLATE Made Easy,April,2013,9781607648086,['Kevin T. Smith']
+Google Visualization API Essentials,April,2013,9781849694360,['Traci L. Ruthkoski']
+Hands-On Oracle Application Express Security,April,2013,9781118686096,['Recx']
+Visual Intelligence,April,2013,9781118388037,"['Mark Stacey', 'Joe Salvatore', 'Adam Jorgensen']"
+Practical Time Series Analysis Using SAS,April,2013,9781612901701,['Anders Milhoj']
+Getting Started with NoSQL,March,2013,9781849694988,['Gaurav Vaish']
+Oracle E-Business Suite R12 Integration and OA Framework Development and Extension Cookbook,March,2013,9781849687126,['Andy Penver']
+Big Data For Dummies,March,2013,9781118504222,"['Judith Hurwitz', 'Alan Nugent', 'Fern Halper', 'Marcia Kaufman']"
+Clojure Data Analysis Cookbook,March,2013,9781782162643,['Eric Rochester']
+Getting Started with Oracle Event Processing 11g,March,2013,9781849684545,"['Alexandre Alves', 'Robin J. Smith', 'Lloyd Williams']"
+Managing Multimedia and Unstructured Data in the Oracle Database,March,2013,9781849686921,['Marcelle Kratochvil']
+"Introducing Geographic Information Systems with ArcGIS, 3rd Edition",March,2013,9781118159804,['Michael D. Kennedy']
+Beginning ArcGIS for Desktop Development using .NET,March,2013,9781118442548,['Pouria Amirian']
+Oracle Enterprise Manager 12c Administration Cookbook,March,2013,9781849687409,"['Dhananjay Papde', 'Vipul Patel', 'Tushar Nath']"
+Interactive Data Visualization for the Web,March,2013,0636920026938,['Scott Murray']
+Lean Analytics,March,2013,0636920026334,"['Alistair Croll', 'Benjamin Yoskovitz']"
+"Statistical Analysis with Excel For Dummies, 3rd Edition",March,2013,9781118464311,['Joseph Schmuller Ph.D.']
+Data Points,March,2013,9781118462195,['Nathan Yau']
+OCA Oracle Database 11g: Database Administration I: A Real-World Certification Guide,February,2013,9781849687300,['Steve Ries']
+Programming ArcGIS 10.1 with Python Cookbook,February,2013,9781849694445,['Eric Pimpler']
+Hadoop Beginner's Guide,February,2013,9781849517300,['Garry Turkington']
+Hadoop Real-World Solutions Cookbook,February,2013,9781849519120,"['Jonathan R. Owens', 'Brian Femiano', 'Jon Lentz']"
+Predictive Analytics,February,2013,9781118356852,['Eric Siegel']
+Instant InnoDB,February,2013,9781849687485,['Matt Reid']
+Developing with Couchbase Server,February,2013,0636920025740,['MC Brown']
+Instant Oracle Database and PowerShell How-to,January,2013,9781849688581,['Geoffrey Hudik']
+Apache Solr 4 Cookbook,January,2013,9781782161325,['Rafal Kuc']
+Oracle Solaris 11: First Look,January,2013,9781849688307,['Philip P. Brown']
+Implementing Splunk: Big Data Reporting and Development for Operational Intelligence,January,2013,9781849693288,['Vincent Bumgarner']
+Data Hiding,December,2012,9781597497435,"['Michael T. Raggo', 'Chet Hosmer']"
+Measuring Data Quality for Ongoing Improvement,December,2012,9780123970336,['Laura Sebastian-Coleman']
+Oracle SOA Suite 11g Developer's Cookbook,December,2012,9781849683883,"['Antony Reynolds', 'Matt Wright']"
+Data Visualization: a successful design process,December,2012,9781849693462,['Andy Kirk']
+Implementing CDISC Using SAS,December,2012,9781612901657,"['Chris Holland', 'Jack Shostak']"
+View Updating and Relational Theory,December,2012,0636920028437,['C.J. Date']
+Oracle CRM On Demand Administration Essentials,December,2012,9781849685009,"['Padmanabha Rao', 'Venkatesan Sundaram']"
+Oracle Enterprise Manager Cloud Control 12c: Managing Data Center Chaos,December,2012,9781849684781,['Porus Homi Havewala']
+"Oracle Primavera Contract Management, Business Intelligence Publisher Edition v14",December,2012,9781849686907,['Stephen D. Kelly']
+Data Insights,November,2012,9780123877932,['Hunter Whitney']
+Using Open Source Platforms for Business Intelligence,November,2012,9780124158115,['Lyndsay Wise']
+QlikView 11 for Developers,November,2012,9781849686068,"['Barry Harmsen', 'Miguel Garcia']"
+Circos Data Visualization How-to,November,2012,9781849694407,['Tom Schenk']
+MATLAB Graphics and Data Visualization Cookbook,November,2012,9781849693165,"['Nivedita Majumdar', 'Swapnonil Banerjee']"
+SAP HANA Starter,November,2012,9781849688680,['Mark Walker']
+Knight's Microsoft SQL Server 2012 Integration Services 24-Hour Trainer,November,2012,9781118479582,"['Brian Knight', 'Devin Knight', 'Mike Davis', 'Wayne Snyder']"
+IBM Cognos Insight,November,2012,9781849688468,['Sanjeev Datta']
+Bad Data Handbook,November,2012,0636920024422,['Q. Ethan McCallum']
+Data Governance,November,2012,9780124158290,['John Ladley']
+Oracle APEX Best Practices,November,2012,9781849684002,"['Alex Nuijten', 'Iloon Ellen Wollf', 'Learco Brizzi']"
+SQL Server 2012 with PowerShell V3 Cookbook,October,2012,9781849686464,['Donabel Santos']
+Oracle 11g Anti-hacker's Cookbook,October,2012,9781849685269,['Adrian Neagu']
+"Big Data Now: 2012 Edition, 2nd Edition",October,2012,0636920028307,"[""O'Reilly Media"", 'Inc.']"
+Oracle ADF Real World Developer's Guide,October,2012,9781849684828,['Jobinesh Purushothaman']
+What's new in SQL Server 2012,October,2012,9781849687348,"['Rachel Clements', 'Jon Reade']"
+Professional SQL Server 2012 Internals and Troubleshooting,October,2012,9781118177655,"['Christian  Bolton', 'Justin  Langford', 'Glenn Berry', 'Gavin Payne', 'Amit Banerjee', 'Rob Farley']"
+"The Little SAS Book: A Primer, Fifth Edition, 5th Edition",October,2012,9781612903439,"['Lora D. Delwiche', 'Susan J. Slaughter']"
+Natural Language Annotation for Machine Learning,October,2012,0636920020578,"['James Pustejovsky', 'Amber Stubbs']"
+Piwik Web Analytics Essentials,October,2012,9781849518482,['Stephan A. Miller']
+Professional Microsoft SQL Server 2012 Analysis Services with MDX and DAX,October,2012,9781118101100,"['Sivakumar  Harinath', 'Ronald Pihlgren', 'Denny   Guang-Yeu Lee', 'John Sirmon', 'Robert M. Bruckner']"
+Oracle BPM Suite 11g: Advanced BPMN Topics,October,2012,9781849687560,"['Mark Nelson', 'Tanya Williams']"
+Hadoop Operations,September,2012,0636920025085,['Eric Sammer']
+Microsoft SQL Server 2012 Security Cookbook,September,2012,9781849685887,['Rudi Bruchez']
+Infographics,September,2012,9781118314043,"['Jason Lankow', 'Josh Ritchie', 'Ross Crooks']"
+Programming Hive,September,2012,0636920023555,"['Edward Capriolo', 'Dean Wampler', 'Jason Rutherglen']"
+SAS Hash Object Programming Made Easy,September,2012,9781607648017,['Michele M. Burlew']
+MySQL Management and Administration with Navicat,September,2012,9781849687461,['Gokhan Ozar']
+"PCI Compliance, 3rd Edition",September,2012,9781597499484,"['Branden R. Williams', 'Anton Chuvakin']"
+Oracle SOA Suite 11g Administrator's Handbook,August,2012,9781849686082,"['Ahmed Aboulnaga', 'Arun Pareek']"
+"Governance, Risk, and Compliance Handbook for Oracle Applications",August,2012,9781849681704,"['Nigel King', 'Adil R Khan']"
+Oracle Primavera P6 Version 8: Project and Portfolio Management,August,2012,9781849684682,"['Daniel Williams', 'Elaine Britt Krazer']"
+HBase Administration Cookbook,August,2012,9781849517140,['Yifeng Jiang']
+"Categorical Data Analysis Using SAS, Third Edition, 3rd Edition",July,2012,9781607646648,"['Maura E. Stokes', 'Charles S. Davis', 'Gary G. Koch']"
+Applied Data Mining for Forecasting Using SAS,July,2012,9781607646624,"['Tim Rey', 'Arthur Kordon', 'Chip Wells']"
+Microsoft SQL Server 2012 Performance Tuning Cookbook,July,2012,9781849685740,"['Ritesh Shah', 'Bihag Thaker']"
+Data Virtualization for Business Intelligence Systems,July,2012,9780123944252,['Rick van der Lans']
+FileMaker Pro 12: The Missing Manual,July,2012,0636920022817,"['Susan Prosser', 'Stuart Gripman']"
+IBM Cognos Business Intelligence 10.1 Dashboarding cookbook,July,2012,9781849685825,['Ankit Garg']
+Oracle Business Intelligence Enterprise Edition 11g: A Hands-On Tutorial,July,2012,9781849685665,"['Christian Screen', 'Haroun Khan', 'Adrian Ward']"
+"Securing SQL Server, 2nd Edition",July,2012,9781597499477,['Denny Cherry']
+Business Intelligence Cookbook: A Project Lifecycle Approach Using Oracle Technology,July,2012,9781849685481,['John Heaton']
+The Data Journalism Handbook,July,2012,0636920025603,"['Jonathan Gray', 'Lucy Chambers', 'Liliana Bounegru']"
+Oracle Database XE 11gR2 Jump Start Guide,July,2012,9781849686747,['Asif Momen']
+Getting Started with D3,June,2012,0636920025429,['Mike Dewar']
+Principles of Data Integration,June,2012,9780124160446,"['AnHai Doan', 'Alon Halevy', 'Zachary Ives']"
+Oracle WebLogic Server 12c: First Look,June,2012,9781849687188,['Michel Schildmeijer']
+Getting Started with Couchbase Server,June,2012,0636920025733,['MC Brown']
+Getting Started with Oracle Data Integrator 11g: A Hands-On Tutorial,May,2012,9781849680684,"['David Hecksel', 'Bernard Wheeler', 'Peter C. Boyd-Bowman', 'Julien Testut', 'Denis Gray', 'Christophe Dupupet']"
+Microsoft SQL Server 2012 Integration Services: An Expert Cookbook,May,2012,9781849685245,"['Reza Rad', 'Pedro Perfeito']"
+"Information Visualization, 3rd Edition",May,2012,9780123814647,['Colin Ware']
+Professional Microsoft SQL Server 2012 Reporting Services,May,2012,9781118101117,"['Paul Turley', 'Robert M. Bruckner', 'Thiago Silva', 'Ken Withee', 'Grant Paisley']"
+Seven Databases in Seven Weeks,May,2012,9781934356920,"['Eric Redmond', 'Jim Wilson']"
+Oracle E-Business Suite R12 Core Development and Extension Cookbook,May,2012,9781849684842,['Andy Penver']
+"Information Storage and Management, 2nd Edition",April,2012,9781118094839,['EMC Education Services']
+Fundamentals of Predictive Analytics with JMP,April,2012,9781612904252,"['Ron Klimberg', 'B. D. McCullough']"
+Oracle BPM Suite 11g Developer's cookbook,April,2012,9781849684224,['Vivek Acharya']
+Oracle E-Business Suite Financials R12: A Functionality Guide,April,2012,9781849680622,['Mohan Iyer']
+FusionCharts,April,2012,9781849691765,"['Sanket Nadhani', 'Pallav Nadhani', 'Shamasis Bhattacharya']"
+Database Design and Relational Theory,April,2012,0636920025276,['C.J. Date']
+Oracle BAM 11gR1 Handbook,April,2012,9781849685443,['Pete Wang']
+phpMyAdmin Starter,April,2012,9781849517546,['Marc Delisle']
+"JMP Start Statistics, 5th Edition",March,2012,9781612902043,"['John Sall', 'Ann W. Lehman', 'Mia L. Stephens', 'Lee Creighton']"
+Professional Microsoft SQL Server 2012 Administration,March,2012,9781118106884,"['Adam Jorgensen', 'Steven Wort', 'Ross LoForte', 'Brian Knight']"
+Oracle JD Edwards EnterpriseOne 9.0: Supply Chain Management Cookbook,March,2012,9781849681964,['Kashif Rasheed']
+Designing Great Data Products,March,2012,0636920026082,"['Jeremy  Howard', 'Margit Zwemer', 'Mike Loukides']"
+Professional Microsoft SQL Server 2012 Integration Services,March,2012,9781118101124,"['Brian Knight', 'Erik Veerman', 'Jessica  M.  Moss', 'Mike Davis', 'Chris  Rock']"
+IBM DB2 9.7 Advanced Application Developer Cookbook,March,2012,9781849683968,"['Mohankumar Saraswatipura', 'Sanjay Kumar']"
+Planning for Big Data,March,2012,0636920025559,['Edd Dumbill']
+"High Performance MySQL, 3rd Edition",March,2012,0636920022343,"['Baron Schwartz', 'Peter Zaitsev', 'Vadim Tkachenko']"
+IBM DB2 9.7 Advanced Administration Cookbook,February,2012,9781849683326,"['Adrian Neagu', 'Robert Pelletier']"
+Oracle Application Integration Architecture (AIA) Foundation Pack 11gR1: Essentials,February,2012,9781849684804,['Hariharan V Ganesarethinam']
+Data for the Public Good,February,2012,0636920025580,['Alex Howard']
+SAS/GRAPH: Beyond the Basics,February,2012,9781607649892,['Robert Allison']
+Machine Learning for Hackers,February,2012,0636920018483,"['Drew Conway', 'John Myles White']"
+Mastering phpMyAdmin 3.4 for Effective MySQL Management,February,2012,9781849517782,['Marc Delisle']
+Getting Started with CouchDB,January,2012,0636920020837,['MC Brown']
+Oracle Essbase 11 Development Cookbook,January,2012,9781849683265,['Jose R. Ruiz']
+Oracle JDeveloper 11gR2 Cookbook,January,2012,9781849684767,['Nick Haralabidis']
+MongoDB and PHP,January,2012,0636920022381,['Steve Francia']
+JSL Companion,December,2011,9781607648802,"['Theresa L. Utlaut', 'Georgia Z. Morgan', 'Kevin C. Anderson']"
+Oracle Hyperion Interactive Reporting 11 Expert Guide,December,2011,9781849683142,"['Edward J. Cody', 'Emily M. Vose']"
+OCA Oracle Database 11g: SQL Fundamentals I: A Real World Certification Guide (1ZO-051),December,2011,9781849683647,['Steve Ries']
+Knight's Microsoft Business Intelligence 24-Hour Trainer,November,2011,9780470889633,"['Brian Knight', 'Devin Knight', 'Adam Jorgensen', 'Patrick LeBlanc', 'Mike Davis']"
+PHP and MongoDB Web Development Beginner's Guide,November,2011,9781849513623,['Rubayeet Islam']
+Teaching Elementary Statistics with JMP,November,2011,9781607646686,['Chris Olsen']
+"Customer Segmentation and Clustering Using SAS Enterprise Miner, 2nd Edition",November,2011,9781607648109,['Randy Collica']
+Apache Solr 3 Enterprise Search Server,November,2011,9781849516068,"['David Smiley', 'Eric Pugh']"
+Oracle BI Publisher 11g: A Practical Guide to Enterprise Reporting,November,2011,9781849683180,['Daniela Bozdoc']
+Mastering Search Analytics,October,2011,0636920018094,['Brent Chaters']
+Social Network Analysis for Startups,September,2011,0636920020424,"['Maksim Tsvetovat', 'Alexander Kouznetsov']"
+Oracle Weblogic Server 11gR1 PS2: Administration Essentials,September,2011,9781849683029,['Michel Schildmeijer']
+Oracle Identity and Access Manager 11g for Administrators,September,2011,9781849682688,['Atul Kumar']
+Designing Data Visualizations,September,2011,0636920022060,"['Noah Iliinsky', 'Julie Steele']"
+Privacy and Big Data,September,2011,0636920020103,"['Terence Craig', 'Mary  E. Ludloff']"
+Building Data Science Teams,September,2011,0636920022770,['DJ Patil']
+The Evolution of Data Products,September,2011,0636920022916,['Mike Loukides']
+"Oracle Information Integration, Migration, and Consolidation",September,2011,9781849682206,"['Tom Laszewski', 'Jason Williamson', 'Prakash Nauduri']"
+Practical Oracle Security,August,2011,9781597491983,"['Josh Shaul', 'Aaron Ingram']"
+"The Best Damn Exchange, SQL and IIS Book Period",August,2011,9781597492195,"['Henrik Walther', 'Mark Horninger', 'Chris Adams']"
+Big Data Now: Current Perspectives from O'Reilly Radar,August,2011,0636920022640,"[""O'Reilly Radar Team""]"
+HBase: The Definitive Guide,August,2011,0636920014348,['Lars George']
+Professional NoSQL,August,2011,9780470942246,['Shashank Tiwari']
+Oracle E-Business Suite 12 Financials Cookbook,August,2011,9781849683104,['Yemi Onigbode']
+MDX with Microsoft SQL Server 2008 R2 Analysis Services Cookbook,August,2011,9781849681308,['Tomislav Piasevoli']
+Oracle WebCenter 11g PS3 Administration Cookbook,July,2011,9781849682282,['Yannick Ongena']
+Redis Cookbook,July,2011,0636920020127,"['Tiago Macedo', 'Fred Oliveira']"
+Apache Solr 3.1 Cookbook,July,2011,9781849512183,['Rafal Kuc']
+Microsoft SQL Server 2008 R2 Master Data Services,July,2011,9781849680509,"['Jeremy Kashel', 'Tim Kent', 'Martyn Bullerwell']"
+Cassandra High Performance Cookbook,July,2011,9781849515122,['Edward Capriolo']
+"SAS Certification Prep Guide: Base Programming for SAS 9, Third Edition",July,2011,9781607649243,['SAS Institute']
+Social Media Metrics Secrets,July,2011,9780470936276,['John Lovett']
+Oracle PeopleSoft Enterprise Financial Management 9.1 Implementation,June,2011,9781849681469,['Ranjeet Yadav']
+Pentaho Data Integration 4 Cookbook,June,2011,9781849515245,"['Adrian Sergio Pulvirenti', 'Maria Carina Roldan']"
+GNU Octave,June,2011,9781849513326,['Jesper Schmidt Hansen']
+Oracle ADF Enterprise Application Development-Made Simple,June,2011,9781849681889,['Sten E. Vesterli']
+"Data Mining: Concepts and Techniques, 3rd Edition",June,2011,9780123814791,"['Jiawei Han', 'Jian Pei', 'Micheline Kamber']"
+Microsoft SQL Server 2008 R2 Administration Cookbook,May,2011,9781849681445,['Satya Shyam K Jayanty']
+Oracle Siebel CRM 8 User Management: LITE,May,2011,9781849683746,['Alexander Hansal']
+"MySQL Admin Cookbook LITE: Configuration, Server Monitoring, Managing Users",May,2011,9781849516129,"['Daniel Schneller', 'Udo Schwedt']"
+Middleware Management with Oracle Enterprise Manager Grid Control 10g R5: LITE,May,2011,9781849683708,"['Arvind Maheshwari', 'Debu  Panda']"
+Processing XML documents with Oracle JDeveloper 11g: LITE,May,2011,9781849683821,['Deepak Vohra']
+Oracle 10g/11g Data and Database Management Utilities: LITE,May,2011,9781849683722,['Hector R. Madrid']
+PostgreSQL 9 Administration Cookbook: LITE Edition,May,2011,9781849516204,"['Simon Riggs', 'Hannu Krosing']"
+SAP Business ONE Implementation: LITE,May,2011,9781849683784,['Wolfgang Niefert']
+EJB 3.0 Database Persistence with Oracle Fusion Middleware 11g: LITE,May,2011,9781849683760,['Deepak Vohra']
+MySQL Admin Cookbook LITE: Replication and Indexing,May,2011,9781849516143,"['Daniel Schneller', 'Udo Schwedt']"
+"PostgreSQL 9 Administration Cookbook LITE: Configuration, Monitoring and Maintenance",May,2011,9781849516426,"['Simon Riggs', 'Hannu Krosing']"
+Oracle Enterprise Manager Grid Control 11g R1: Business Service Management,May,2011,9781849682169,"['Ashwin Kumar Karkala', 'Govinda Raj Sambamurthy']"
+Oracle Warehouse Builder 11g R2: Getting Started 2011,May,2011,9781849683449,['Bob Griesemer']
+Data Architecture,May,2011,9780123851260,['Charles Tupper']
+Oracle Siebel CRM 8 Developer's Handbook,April,2011,9781849681865,['Alexander Hansal']
+50 Tips and Tricks for MongoDB Developers,April,2011,0636920019893,['Kristina Chodorow']
+How to Cheat at Securing SQL Server 2005,April,2011,9781597491969,['Mark Horninger']
+What Is Data Science?,April,2011,0636920025160,['Mike Loukides']
+Excel Sales Forecasting For Dummies,April,2011,9780764575938,['Conrad Carlberg']
+Discovering SQL,March,2011,9781118002674,['Alex Kriegel']
+Oracle Application Express 4.0 with Ext JS,March,2011,9781849681063,['Mark Lancaster']
+"Data Mining Techniques, 3rd Edition",March,2011,9780470650936,"['Gordon S. Linoff', 'Michael J. Berry']"
+The Data Model Resource Book,March,2011,9780470178454,"['Len Silverston', 'Paul Agnew']"
+"SQL All-in-One For Dummies, 2nd Edition",February,2011,9780470929964,['Allen G. Taylor']
+FileMaker Pro Design and Scripting For Dummies,February,2011,9780471786481,['Timothy Trimble']
+Oracle GoldenGate 11g Implementer's guide,February,2011,9781849682008,['John P Jeffries']
+"Database Modeling and Design, 5th Edition",February,2011,9780123820204,"['Toby J. Teorey', 'Sam S. Lightstone', 'Tom Nadeau', 'H. V. Jagadish']"
+Business Intelligence For Dummies,February,2011,9780470127230,['Swain Scheps']
+"Data Mining: Practical Machine Learning Tools and Techniques, 3rd Edition",February,2011,9780123748560,"['Ian H. Witten', 'Eibe Frank', 'Mark A. Hall']"
+21 Recipes for Mining Twitter,January,2011,0636920018261,['Matthew A. Russell']
+Scaling MongoDB,January,2011,0636920018308,['Kristina Chodorow']
+Writing and Querying MapReduce Views in CouchDB,January,2011,0636920018247,['Bradley Holt']
+Data Source Handbook,January,2011,0636920018254,['Pete Warden']
+Microsoft SQL Server 2008 High Availability,January,2011,9781849681223,['Hemantgiri S. Goswami']
+Securing SQL Server,December,2010,9781597496254,['Denny Cherry']
+Oracle E-Business Suite R12 Supply Chain Management,December,2010,9781849680646,['Muneeb A. Siddiqui']
+Oracle APEX 4.0 Cookbook,December,2010,9781849681346,"['Michel van Zoest', 'Marcel van der Plas']"
+The Practitioner's Guide to Data Quality Improvement,November,2010,9780123737175,['David Loshin']
+"Joe Celko's SQL for Smarties, 4th Edition",November,2010,9780123820228,['Joe Celko']
+Real World Instrumentation with Python,November,2010,9780596809577,['J. M. Hughes']
+Data Analysis with Open Source Tools,November,2010,9780596802363,['Philipp K. Janert']
+"SQL Pocket Guide, 3rd Edition",November,2010,0636920013471,['Jonathan Gennick']
+PostgreSQL 9 Admin Cookbook,October,2010,9781849510288,"['Simon Riggs', 'Hannu Krosing']"
+Statistical Programming with SAS/IML Software,October,2010,9781607646631,['Rick Wicklin']
+PostgreSQL 9.0 High Performance,October,2010,9781849510301,['Gregory Smith']
+Oracle Business Intelligence : The Condensed Guide to Analysis and Reporting,October,2010,9781849681186,['Yuli Vasiliev']
+Mastering phpMyAdmin 3.3.x for Effective MySQL Management,October,2010,9781849513548,['Marc Delisle']
+Web 2.0 Solutions with Oracle WebCenter 11g,October,2010,9781847195807,"['Plinio Arbizu', 'Ashok Aggarwal']"
+The Business Analyst's Guide to Oracle Hyperion Interactive Reporting 11,September,2010,9781849680363,['Edward J. Cody']
+Getting Started with Oracle BPM Suite 11gR1,September,2010,9781849681681,"['Heidi Buelow', 'Manoj Das', 'Manas Deb', 'Prasen Palvankar', 'Meera Srinivasan']"
+Oracle Fusion Middleware Patterns,September,2010,9781847198327,"['Harish Gaur', 'Markus Zirn']"
+Pentaho Kettle Solutions,August,2010,9780470635179,"['Matt Casters', 'Roland Bouman', 'Jos van Dongen']"
+MySQL 5.1 Plugin Development,August,2010,9781849510608,"['Andrew Hutchings', 'Sergei Golubchik']"
+BPEL PM and OSB operational management with Oracle Enterprise Manager 10g Grid Control,August,2010,9781847197740,['Narayan Bharadwaj']
+Managing Time in Relational Databases,August,2010,9780123750419,"['Tom Johnston', 'Randall Weis']"
+IBM InfoSphere Replication Server and Data Event Publisher,August,2010,9781849681544,['Pav Kumar-Chatterjee']
+Google Analytics,August,2010,9780596158019,['Justin Cutroni']
+The Oracle Universal Content Management Handbook,August,2010,9781849680387,['Dmitri Khanine']
+Using SQLite,August,2010,9780596521196,['Jay A. Kreibich']
+Oracle Siebel CRM 8 Installation and Management,August,2010,9781849680561,['Alexander Hansal']
+Master Data Management,July,2010,9780123742254,['David Loshin']
+Database Archiving,July,2010,9780123747204,['Jack E. Olson']
+DW 2.0: The Architecture for the Next Generation of Data Warehousing,July,2010,9780123743190,"['W. H. Inmon', 'Derek Strauss', 'Genia Neushloss']"
+Data Preparation for Data Mining Using SAS,July,2010,9780123735775,['Mamdouh Refaat']
+"Information Modeling and Relational Databases, 2nd Edition",July,2010,9780123735683,"['Terry Halpin', 'Tony Morgan']"
+Physical Database Design,July,2010,9780123693891,"['Sam S. Lightstone', 'Toby J. Teorey', 'Tom Nadeau']"
+Joe Celko's Analytics and OLAP in SQL,July,2010,9780123695123,['Joe Celko']
+SQL,July,2010,9780122205316,"['Michael J. Donahoo', 'Gregory D. Speegle']"
+Data Model Patterns: A Metadata Map,July,2010,9780120887989,['David C. Hay']
+BIRT 2.6 Data Analysis and Reporting,July,2010,9781849511667,['John Ward']
+Oracle SOA Suite 11g R1 Developer's Guide,July,2010,9781849680189,"['Antony Reynolds', 'Matt Wright']"
+JasperReports 3.6 Development Cookbook,July,2010,9781849510769,['Bilal Siddiqui']
+IBM Cognos 8 Report Studio Cookbook,June,2010,9781849680349,['Abhishek Sanghani']
+Amazon SimpleDB Developer Guide,June,2010,9781847197344,"['Prabhakar Chaganti', 'Rich Helms']"
+Oracle Application Express 3.2,June,2010,9781847194527,"['Arie Geller', 'Matthew Lyon']"
+Oracle JRockit,June,2010,9781847198068,"['Marcus Hirt', 'Marcus Lagergren']"
+FileMaker Pro 11: The Missing Manual,May,2010,0636920002642,"['Susan Prosser', 'Stuart Gripman']"
+Online Surveys For Dummies,May,2010,9780470527962,"['Vivek Bhaskaran', 'Jennifer LeClaire']"
+SQL Server 2008 Administration,May,2010,9780470554203,['Tom Carpenter']
+Beautiful Visualization,April,2010,0636920000617,"['Julie Steele', 'Noah Iliinsky']"
+Pentaho 3.2 Data Integration,April,2010,9781847199546,['Maria Carina Roldan']
+Oracle Database 11g - Underground Advice for Database Administrators,April,2010,9781849680004,['April C. Sims']
+The Little SAS Book for Enterprise Guide 4.2,March,2010,9781599947266,"['Susan J. Slaughter', 'Lora D. Delwiche']"
+Oracle Coherence 3.5,March,2010,9781847196125,"['Aleksandar Seovic', 'Mark Falco', 'Patrick Peralta']"
+Survival Analysis Using SAS,March,2010,9781599946405,['Paul D. Allison']
+OCA: Oracle Database 11g Administrator Certified Associate Study Guide,March,2010,9780470395127,['Biju Thomas']
+Configuring SAP ERP Sales and Distribution,March,2010,9781118791431,"['Kapil Sharma', 'Ashutosh Mutsaddi']"
+MySQL Admin Cookbook,March,2010,9781847197962,"['Daniel Schneller', 'Udo Schwedt']"
+"SAS Functions by Example, Second Edition, 2nd Edition",March,2010,9781607643401,['EdD Ron Cody']
+Microsoft Business Intelligence For Dummies,March,2010,9780470526934,['Ken Withee']
+"SAS For Dummies, 2nd Edition",March,2010,9780470539682,"['Stephen McDaniel', 'Chris Hemedinger']"
+"Common Statistical Methods for Clinical Research with SAS Examples, Third Edition, 3rd Edition",February,2010,9781607642282,"['Glenn Walker', 'Jack Shostak']"
+The Kimball Group Reader,February,2010,9780470563106,"['Ralph Kimball', 'Margy Ross']"
+Data-Driven Marketing,January,2010,9780470504543,['Mark Jeffery']
+Analysis of Observational Health Care Data Using SAS,January,2010,9781607642275,"['Douglas E. Faries', 'Robert Obenchain', 'Josep Maria Haro', 'Andrew C. Leon']"
+CouchDB: The Definitive Guide,January,2010,9780596155902,"['J. Chris Anderson', 'Jan Lehnardt', 'Noah Slater']"
+Oracle 11g Streams Implementer's Guide,January,2010,9781847199706,"['Ann L. R. McKinnell', 'Eric Yen']"
+"SQL For Dummies, 7th Edition",January,2010,9780470557419,['Allen G. Taylor']
+Professional SQL Server 2008 Internals and Troubleshooting,January,2010,9780470484289,"['Christian  Bolton', 'Justin  Langford', 'Brent Ozar', 'James Rowland-Jones', 'Jonathan Kehayias', 'Cindy Gross', 'Steven Wort']"
+Information Storage and Management,December,2009,9780470294215,['EMC Education Services']
+Professional Microsoft SQL Server Analysis Services 2008 with MDX ,December,2009,9780470247983,"['Sivakumar  Harinath', 'Robert  Zare', 'Sethu  Meenakshisundaram', 'Matt  Carroll', 'Denny   Guang-Yeu Lee']"
+Oracle SQL Developer 2.1,December,2009,9781847196262,['Sue Harper']
+Middleware Management with Oracle Enterprise Manager Grid Control 10g R5,December,2009,9781847198341,"['Arvind Maheshwari', 'Debu  Panda']"
+Professional Oracle WebLogic Server,November,2009,9780470484302,"['Robert Patrick', 'Gregory Nyberg', 'Philip Aston']"
+Microsoft SQL Server 2008 Integration Services,October,2009,9780470525760,"['Erik Veerman', 'Jessica  M.  Moss', 'Brian Knight', 'Jay Hackney']"
+Getting Started With Oracle SOA Suite 11g R1 - A Hands-On Tutorial,October,2009,9781847199782,"[""Demed L'Her"", 'Heidi Buelow', 'Jayaram Kasi', 'Manas Deb', 'Prasen Palvankar']"
+Oracle User Productivity Kit 3.5,September,2009,9781849680165,['Dirk Manuel']
+"Joe Celko's Data, Measurements and Standards in SQL",September,2009,9780123747228,['Joe Celko']
+"Relational Database Design and Implementation, 3rd Edition",September,2009,9780123747303,['Jan L. Harrington']
+Solr 1.4 Enterprise Search Server,August,2009,9781847195883,"['David Smiley', 'Eric Pugh']"
+Oracle Warehouse Builder 11g: Getting Started,August,2009,9781847195746,['Bob Griesemer']
+IBM Cognos 8 Planning,July,2009,9781847196842,"['Jason Edwards', 'Ned Riaz', 'Rich Babaran']"
+Oracle Application Express Forms Converter,July,2009,9781847197764,['Douwe Pieter van den Bos']
+"Principles of Transaction Processing, 2nd Edition",July,2009,9781558606234,"['Philip A. Bernstein', 'Eric Newcomer']"
+Head First Data Analysis,July,2009,9780596153946,['Michael Milton']
+Oracle VM Manager 2.1.2,July,2009,9781847197122,['Tarry Singh']
+Expert Cube Development with Microsoft SQL Server 2008 Analysis Services,July,2009,9781847197221,"['Alberto Ferrari', 'Chris Webb', 'Marco Russo']"
+Beautiful Data,July,2009,9780596157128,"['Toby Segaran', 'Jeff Hammerbacher']"
+Knight's 24-Hour Trainer,June,2009,9780470496923,"['Brian Knight', 'Devin Knight', 'Mike Davis']"
+Oracle 10g/11g Data and Database Management Utilities,June,2009,9781847196286,['Hector R. Madrid']
+Oracle Essbase 9 Implementation Guide,June,2009,9781847196866,"['Joseph Sydney Gomez', 'Sarma Anantapantula']"
+"SQL Injection Attacks and Defense, 2nd Edition",June,2009,9781597499637,['Justin Clarke-Salt']
+Mastering Oracle Scheduler in Oracle 11g Databases,June,2009,9781847195982,['Ronald Rood']
+Natural Language Processing with Python,June,2009,9780596516499,"['Steven Bird', 'Ewan Klein', 'Edward Loper']"
+Hadoop: The Definitive Guide,May,2009,9780596521981,['Tom White']
+OCP: Oracle Database 11g Administrator Certified Professional Study Guide,May,2009,9780470395134,"['Robert G. Freeman', 'Charles A. Pack', 'Doug Stuns']"
+Microsoft SQL Server 2008 Administration with Windows PowerShell,May,2009,9780470477281,"['Ananthakumar  Muthusamy', 'Yan  Pan']"
+"Statistical Analysis with Excel For Dummies, 2nd Edition",April,2009,9780470454060,['Joseph Schmuller Ph.D.']
+FileMaker Pro 10 Bible,April,2009,9780470429006,['Ray Cologon']
+Professional SQL Server 2005 Performance Tuning,April,2009,9780470176399,"['Steven Wort', 'Christian  Bolton', 'Justin  Langford', 'Michael  Cape', 'Joshua  J.  Jin', 'Douglas Hinson', 'Haidong Ji', 'Paul  A.  Mestemaker', 'Arindam  Sen']"
+Professional Microsoft SQL Server 2008 Programming,April,2009,9780470257029,['Robert Vieira']
+MySQL Administrator's Bible,April,2009,9780470416914,"['Sheeri K. Cabral', 'Keith Murphy']"
+"The Data Warehouse Lifecycle Toolkit, 2nd Edition",April,2009,9780470149775,"['Ralph Kimball', 'Margy Ross', 'Warren Thornthwaite', 'Joy Mundy', 'Bob Becker']"
+Beginning Database Design Solutions,April,2009,9780470385494,['Rod Stephens']
+Beginning Database Design Solutions,April,2009,9781118072516,['Rod  Stephens']
+Data Warehousing with SAP BW7 BI in SAP Netweaver 2004s,March,2009,9781933952406,"['Christian Mehrwald', 'Sabine Morlock']"
+Learning SQL Server 2008 Reporting Services,March,2009,9781847196187,['Jayaram Krishnaswamy']
+Oracle SOA Suite Developer's Guide,March,2009,9781847193551,"['Antony Reynolds', 'Matt Wright']"
+Django 1.0 Website Development,March,2009,9781847196781,['Ayman Hourieh']
+Processing XML documents with Oracle JDeveloper 11g,February,2009,9781847196668,['Deepak Vohra']
+"Data Warehousing For Dummies, 2nd Edition",February,2009,9780470407479,['Thomas C. Hammergren']
+GIS For Dummies,February,2009,9780470236826,['Michael N. DeMers']
+The Manga Guide to Databases,January,2009,9781593271909,"['Mana Takahashi', 'Shoko Azuma', 'Trend-Pro Co.', 'Ltd.']"
+"Mastering Microsoft Exchange Server 2007 SP1, 2nd Edition",January,2009,9780470417331,['Jim McBee']
+FileMaker Pro 10: The Missing Manual,January,2009,9780596154240,"['Susan Prosser', 'Geoff Coffey']"
+Mastering SQL Server 2008,January,2009,9780470289044,"['Michael Lee', 'Gentry Bieker']"
+Oracle 11g For Dummies,December,2008,9780470277652,"['Chris Zeis', 'Chris Ruel', 'Wessler']"
+Simply SQL,December,2008,9780980455250,['Rudy Limeback']
+Beginning Microsoft SQL Server 2008 Programming,December,2008,9780470257012,['Robert Vieira']
+Professional Microsoft SQL Server 2008 Reporting Services,December,2008,9780470242018,"['Paul Turley', 'Thiago Silva', 'Bryan C. Smith', 'Ken Withee']"
+Beginning Oracle Application Express,December,2008,9780470388372,['Rick Greenwald']
+Beginning T-SQL with Microsoft SQL Server 2005 and 2008,December,2008,9780470257036,"['Paul Turley', 'Dan Wood']"
+"SQL in a Nutshell, 3rd Edition",November,2008,9780596518851,['Kevin Kline']
+SAP Security Configuration and Deployment,November,2008,9781597492843,['Joey Hirao']
+Professional Microsoft SQL Server 2008 Administration,November,2008,9780470247969,"['Brian Knight', 'Ketan Patel', 'Wayne Snyder', 'Ross LoForte', 'Steven Wort']"
+Database Design: Know It All,October,2008,9780123746306,"['Toby J. Teorey', 'Stephen Buxton', 'Lowell Fryman', 'Ralf Hartmut G\xc3\xbcting', 'Terry Halpin', 'Jan L. Harrington', 'W. H. Inmon', 'Sam S. Lightstone', 'Jim Melton', 'Tony Morgan', 'Thomas D. Nadeau', ""Bonnie O'Neil"", ""Elizabeth O'Neil"", ""Patrick O'Neil"", 'Markus Schneider', 'Graeme Simsion', 'Graham Witt']"
+Microsoft SQL Server 2008 For Dummies,September,2008,9780470224656,['Mike  Chapple']
+Executing Data Quality Projects,September,2008,9780123743695,['Danette McGilvray']
+Refactoring SQL Applications,August,2008,9780596514976,"['Stephane Faroult', ""Pascal L'Hermite""]"
+Oracle Web Services Manager,July,2008,9781847193834,['Sitaraman Lakshminarayanan']
+The Data Model Resource Book,May,2008,9780471380238,['Len Silverston']
+JDBC 4.0 and Oracle JDeveloper for J2EE Development,April,2008,9781847194305,['Deepak Vohra']
+"MySQL in a Nutshell, 2nd Edition",April,2008,9780596514334,['Russell J.T. Dyer']
+The Global English Style Guide,March,2008,9781599946573,['John Kohl']
+Practical Data Analysis and Reporting with BIRT,February,2008,9781847191090,['John Ward']
+"Joe Celko's Thinking in Sets: Auxiliary, Temporal, and Virtual Tables in SQL",January,2008,9780123741370,['Joe Celko']
+Visualizing Data,December,2007,9780596514556,['Ben Fry']
+Data Analysis Using SQL and Excel,October,2007,9780470099513,['Gordon S. Linoff']
+"Oracle PL/SQL Best Practices, 2nd Edition",October,2007,9780596514105,['Steven Feuerstein']
+Google Analytics,August,2007,9780596514969,['Justin Cutroni']
+Head First SQL,August,2007,9780596526849,['Lynn Beighley']
+Actionable Web Analytics,August,2007,9780470124741,"['Jason Burby', 'Shane Atchison']"
+FileMaker Pro 9: The Missing Manual,August,2007,9780596514136,"['Geoff Coffey', 'Susan Prosser']"
+"MySQL Pocket Reference, 2nd Edition",July,2007,9780596514266,['George Reese']
+Understanding Oracle Clinical,May,2007,9780596550059,['Joan M. Johnson']
+The Oracle Hacker's Handbook,April,2007,9780470080221,['David Litchfield']
+Understanding MySQL Internals,April,2007,9780596009571,['Sasha Pachev']
+SQL Server Integration Services,March,2007,9780596513757,['Bill Hamilton']
+Professional SQL Server 2005 Integration Services,March,2007,9780764584350,"['Brian Knight', 'Allan Mitchell', 'Darren Green', 'Douglas Hinson', 'Kathi Kellenberger', 'Andy Leonard', 'Erik Veerman', 'Jason Gerard', 'Haidong Ji', 'Mike Murphy']"
+Learning SAS by Example,March,2007,9781599941653,['EdD Ron Cody']
+Professional SQL Server 2005 CLR Programming,February,2007,9780470054031,"['Derek Comingore', 'Douglas Hinson']"
+Beginning SQL Server 2005 Administration,February,2007,9780470047040,"['Dan Wood', 'Chris Leiter', 'Paul Turley']"
+Pharmaceutical Statistics Using SAS,February,2007,9781590478868,"['Alex Dmitrienko', 'Christy Chuang-Stein Ph.D.', ""Ralph B. D'Agostino Sr."", 'Ph.D.']"
+Beginning C# 2005 Databases,January,2007,9780470044063,['Karli Watson']
+Oracle Data Warehousing and Business Intelligence Solutions,January,2007,9780471919216,"['Robert Stackowiak', 'Joseph Rayman', 'Rick Greenwald']"
+Google Analytics,December,2006,9780470053850,"['Mary E. Tyler', 'Jerri L. Ledford']"
+SQL Server 2005 Reporting Essentials,November,2006,9780596529413,['Bill Hamilton']
+Creating your MySQL Database: Practical Design Tips and Techniques,November,2006,9781904811305,['Marc Delisle']
+SQL Hacks,November,2006,9780596527990,"['Andrew Cumming', 'Gordon  Russell']"
+"Mastering the SAP Business Information Warehouse, 2nd Edition",November,2006,9780764596377,"['Kevin McDonald', 'Andreas Wilmsmeier', 'David C. Dixon', 'W. H. Inmon']"
+Learning MySQL,November,2006,9780596008642,"['Seyed M.M. Tahaghoghi', 'Hugh E. Williams']"
+"In the Know...SAS® Tips and Techniques From Around the Globe, Second Edition",November,2006,9781590477021,['Phil Mason']
+LINQ: The Future of Data Access in C# 3.0,October,2006,9780596528416,['Joe Hummel']
+Mastering Data Warehouse Aggregates,October,2006,9780471777090,['Christopher Adamson']
+The Relational Database Dictionary,August,2006,9780596527983,['C.J. Date']
+"SQL For Dummies®, 6th Edition",July,2006,9780470046524,['Allen G. Taylor']
+FileMaker 8.5: Integrating the Web,July,2006,9780596528232,['Susan Prosser']
+"Professional SQL Server 2005 Reporting Services, 2nd Edition",May,2006,9780764584978,"['Paul Turley', 'Todd Bryant', 'James Counihan', 'Dave DuVarney']"
+The Microsoft Data Warehouse Toolkit,May,2006,9780471267157,"['Joy Mundy', 'Warren Thornthwaite']"
+"MDX Solutions, 2nd Edition",May,2006,9780471748083,"['George Spofford', 'Sivakumar  Harinath', 'Christopher Webb', 'Dylan Hai Huang', 'Francesco Civardi']"
+Learning SQL on SQL Server 2005,April,2006,9780596102159,"['Sikha Saha Bagui', 'Richard Walsh Earp']"
+Professional SQL Server Analysis Services 2005 with MDX,April,2006,9780764579189,"['Sivakumar  Harinath', 'Stephen  R.  Quinn']"
+"SQL Pocket Guide, 2nd Edition",April,2006,9780596526887,['Jonathan Gennick']
+Professional SQL Server 2005 XML,April,2006,9780764597923,['Scott Klein']
+MySQL Stored Procedure Programming,March,2006,9780596100896,"['Guy Harrison', 'Steven Feuerstein']"
+The Art of SQL,March,2006,9780596008949,"['Stephane Faroult', 'Peter Robson']"
+Mastering Microsoft SQL Server 2005,March,2006,9780782143805,"['Mike Gunderloy', 'Joseph L. Jorden', 'David W. Tschanz']"
+Programming SQL Server 2005,February,2006,9780596004798,['Bill Hamilton']
+OCP: Oracle 10g New Features for Administrators Study Guide,February,2006,9780782143553,"['Bob Bryla', 'Biju Thomas']"
+Mastering SQL Server 2000,February,2006,9780782126273,"['Mike Gunderloy', 'Joseph L. Jorden']"
+Oracle Database Foundations,February,2006,9780782143720,['Bob Bryla']
+Oracle9i DBA JumpStart,February,2006,9780782141894,['Bob Bryla']
+SQL Server's Developer's Guide to OLAP with Analysis Services,February,2006,9780782129571,"['Mike Gunderloy', 'Tim Sneath']"
+Wrox's SQL Server 2005 Express Edition Starter Kit,February,2006,9780764589232,"['Rajesh  George', 'Lance  Delano']"
+Beginning SQL Server 2005 Programming,February,2006,9780764584336,['Robert Vieira']
+SQL Cookbook,December,2005,9780596009762,['Anthony Molinaro']
+Oracle PL/SQL for DBAs,October,2005,9780596005870,"['Arup Nanda', 'Steven Feuerstein']"
+Data Mining with SQL Server 2005,October,2005,9780471462613,"['ZhaoHui Tang', 'Jamie MacLennan']"
+"Building the Data Warehouse, 4th Edition",October,2005,9780764599446,['W. H. Inmon']
+FileMaker Pro 8: The Missing Manual,September,2005,9780596005795,"['Geoff Coffey', 'Susan Prosser']"
+Moving Objects Databases,September,2005,9780120887996,"['Ralf Hartmut G\xc3\xbcting', 'Markus Schneider']"
+"Oracle PL/SQL Programming, 4th Edition",August,2005,9780596009779,"['Steven Feuerstein', 'Bill Pribyl']"
+Learning SQL,August,2005,9780596007270,['Alan Beaulieu']
+Oracle DBA Pocket Guide,August,2005,9780596100490,['David C. Kreines']
+"Data Mining, 2nd Edition",July,2005,9780120884070,"['Ian H. Witten', 'Eibe Frank']"
+"Toad Pocket Reference for Oracle, 2nd Edition",May,2005,9780596009717,"['Jeff Smith', 'Patrick McGrath', 'Bert Scalzo']"
+Joe Celko's SQL Programming Style,May,2005,9780120887972,['Joe Celko']
+Database in Depth,May,2005,9780596100124,['C.J. Date']
+MySQL in a Nutshell,May,2005,9780596007898,['Russell J.T. Dyer']
+SQL Functions Programmer's Reference,April,2005,9780764569012,"['Arie Jones', 'Ryan K. Stephens', 'Ronald R. Plew', 'Robert F. Garrett', 'Alex Kriegel']"
+Beginning MySQL,March,2005,9780764579509,"['Robert Sheldon', 'Geoff Moes']"
+Analysis of Clinical Trials Using SAS,February,2005,9781590475041,"['Alex Dmitrienko', 'Geert Molenberghs Ph.D', 'Christy Chuang-Stein Ph.D.', 'Walter W. Offen Ph.D.']"
+"Data Modeling Essentials, 3rd Edition",December,2004,9780126445510,"['Graeme Simsion', 'Graham Witt']"
+Building PDA Databases for Wireless and Mobile Development,November,2004,9780471216452,"['Robert Laberge', 'Srdjan Vujosevic']"
+The Data Warehouse ETL Toolkit,November,2004,9780764567575,"['Ralph Kimball', 'Joe Caserta']"
+Oracle Utilities Pocket Reference,November,2004,9780596008994,['Sanjay Mishra']
+"Oracle SQL*Plus Pocket Reference, 3rd Edition",November,2004,9780596008857,['Jonathan Gennick']
+New Features in Oracle 9i,November,2004,9780596009557,['Howard J. Rogers']
+Proceedings 2004 VLDB Conference,October,2004,9780120884698,['VLDB']
+SQL in a Nutshell,September,2004,9780596004811,['Kevin Kline']
+Oracle Initialization Parameters Pocket Reference,August,2004,9780596007706,['David C. Kreines']
+Professional SQL Server 2000 DTS (Data Transformation Services),August,2004,9780764543685,"['Mark Chaffin', 'Brian Knight', 'Todd Robinson']"
+Oracle Application Server 10g Essentials,August,2004,9780596006211,"['Rick Greenwald', 'Robert Stackowiak', 'Donald Bales']"
+"Mastering Oracle SQL, 2nd Edition",June,2004,9780596006327,"['Sanjay Mishra', 'Alan Beaulieu']"
+Crystal Reports 10 For Dummies,May,2004,9780764571374,['Allen G. Taylor']
+Professional SQL Server Reporting Services,May,2004,9780764568787,"['Paul Turley', 'Todd Bryant', 'James Counihan', 'George McKee', 'Dave DuVarney']"
+"Data Mining Techniques, 2nd Edition",April,2004,9780471470649,"['Michael J. Berry', 'Gordon S. Linoff']"
+High Performance MySQL,April,2004,9780596003067,"['Jeremy D. Zawodny', 'Derek J. Balling']"
+Universal Meta Data Models,March,2004,9780471081777,"['David Marco', 'Michael Jennings']"
+"Oracle Essentials, 3rd Edition",February,2004,9780596005856,"['Rick Greenwald', 'Robert Stackowiak', 'Jonathan Stern']"
+Proceedings 2003 VLDB Conference,December,2003,9780127224428,['VLDB']
+SQL Tuning,November,2003,9780596005733,['Dan Tow']
+Optimizing Oracle Performance,September,2003,9780596005276,"['Cary Millsap', 'Jeff Holt']"
+Database Modeling with Microsoft® Visio for Enterprise Architects,September,2003,9781558609198,"['Terry Halpin', 'Ken Evans', 'Pat Hallock', 'Bill Maclean']"
+Oracle Regular Expressions Pocket Reference,September,2003,9780596006013,"['Jonathan Gennick', 'Peter Linsley']"
+Mastering Data Warehouse Design,August,2003,9780471324218,"['Claudia Imhoff', 'Nicholas Galemmo', 'Jonathan G. Geiger']"
+Mastering SQL Server 2000 Security,June,2003,9780471219705,"['Mike Young', 'Curtis W. Young']"
+Packaged Composite Applications,June,2003,9780596005528,['Dan Woods']
+"SQL Clearly Explained, 3rd Edition",May,2003,9780123756978,['Jan L. Harrington']
+IBM Data Warehousing,February,2003,9780471133056,['Michael L. Gonzales']
+MySQL Pocket Reference,February,2003,9780596004460,['George Reese']
+MySQL Enterprise Solutions,February,2003,9780471269229,['Alexander (Sasha) Pachev']
+Common Warehouse Metamodel Developer's Guide,February,2003,9780471202431,"['John Poole', 'Dan Chang', 'Douglas Tolbert', 'David Mellor']"
+Data Quality,January,2003,9781558608917,['Jack E. Olson']
+Oracle in a Nutshell,December,2002,9780596003364,"['Rick Greenwald', 'David C. Kreines']"
+Proceedings 2002 VLDB Conference,December,2002,9781558608696,['VLDB']
+Temporal Data & the Relational Model,December,2002,9781558608559,"['C. J. Date', 'Hugh Darwen', 'Nikos Lorentzos']"
+Oracle Administration and Management,November,2002,9780471218869,['Michael R. Ault']
+"Building the Data Warehouse, 3rd Edition",October,2002,9780471081302,['W. H. Inmon']
+High-Performance Oracle,October,2002,9780471224365,['Geoff Ingram']
+Mastering the SAP Business Information Warehouse,October,2002,9780471219712,"['Kevin McDonald', 'Andreas Wilmsmeier', 'David C. Dixon', 'W. H. Inmon']"
+Visual Data Mining,October,2002,9780471149996,"['Tom Soukup', 'Ian Davidson']"
+Advanced SQL:1999,September,2002,9781558606777,['Jim Melton']
+Perl for Oracle DBAs,August,2002,9780596002107,"['Andy Duncan', 'Jared Still']"
+Database Tuning,June,2002,9781558607538,"['Dennis Shasha', 'Philippe Bonnet']"
+MySQL Reference Manual,June,2002,9780596002657,"['Michael Widenius', 'David Axmark', 'Kaj Arno']"
+"Managing & Using MySQL, 2nd Edition",April,2002,9780596002114,"['Tim King', 'George Reese', 'Randy Yarger', 'Hugh E. Williams']"
+"Relational Database Design Clearly Explained, 2nd Edition",April,2002,9781558608207,['Jan L. Harrington']
+"Newnes Data Communications Pocket Book, 4th Edition",April,2002,9780750652971,"['Steve Winder', 'Mike Tooley']"
+"SAS for Linear Models, 4th Edition",March,2002,9781590470237,"['Ramon C. Littell Ph.D.', 'Walter W. Stroup Ph.D.', 'Rudolf J. Freund']"
+Transact-SQL Cookbook,March,2002,9781565927568,"['Ales Spetic', 'Jonathan Gennick']"
+Practical PostgreSQL,January,2002,9781565928466,"['Joshua D. Drake', 'John C. Worsley']"
+Oracle SQL Tuning Pocket Reference,January,2002,9780596002688,['Mark Gurry']
+Java Programming with Oracle JDBC,November,2001,9780596000882,['Donald Bales']
+Learning Oracle PL/SQL,November,2001,9780596001803,"['Bill Pribyl', 'Steven Feuerstein']"
+Oracle RMAN Pocket Reference,November,2001,9780596002336,"['Darl Kuhn', 'Scott Schulze']"
+Practical IDL Programming,July,2001,9781558607002,['Liam E. Gumley']
+Data Analysis for Database Design,May,2001,9780750650861,['David Howe']
+Transactional Information Systems,May,2001,9781558605084,"['Gerhard Weikum', 'Gottfried Vossen']"
+Spatial Databases,May,2001,9781558605886,"['Philippe Rigaux', 'Michel Scholl', 'Agn\xc3\xa8s Voisard']"
+SQL: 1999,May,2001,9781558604568,"['Jim Melton', 'Alan Simon']"
+Data Warehousing And Business Intelligence For e-Commerce,May,2001,9781558607132,"['Alan Simon', 'Steven L. Shaffer']"
+Oracle SQL*Loader: The Definitive Guide,April,2001,9781565929487,"['Jonathan Gennick', 'Sanjay Mishra']"
+Information Modeling and Relational Databases,April,2001,9781558606722,['Terry Halpin']
+Oracle PL/SQL Best Practices,April,2001,9780596001216,['Steven Feuerstein']
+Oracle DBA Checklists Pocket Reference,April,2001,9780596001223,['Quest Software']
+Oracle and Open Source,April,2001,9780596000189,"['Andy Duncan', 'Sean Hull']"
+Unix for Oracle DBAs Pocket Reference,February,2001,9780596000660,['Donald K. Burleson']
+Designing SQL Server 2000 Databases,January,2001,9781928994190,['Syngress']
+Oracle Net8 Configuration and Troubleshooting,December,2000,9781565927537,"['Hugo Toledo', 'Jonathan Gennick']"
+Component Database Systems,October,2000,9781558606425,"['Klaus R Dittrich', 'Andreas Geppert']"
+Data Warehousing,September,2000,9781558606845,['Paul Westerman']
+Oracle PL/SQL Programming: A Developer's Workbook,May,2000,9781565926745,"['Steven Feuerstein', 'Andrew Odewahn']"
+DBAs Guide to Databases Under Linux,April,2000,9781928994046,['Syngress']
+Oracle 8i Internal Services,October,1999,9781565925984,['Steve Adams']
+Oracle Database Administration: The Essential Refe,April,1999,9781565925168,"['David C. Kreines', 'Brian Laskey']"
+Oracle Built-in Packages,May,1998,9781565923751,"['Steven Feuerstein', 'Charles Dye', 'John Beresniewicz']"
+Oracle Design: The Definitive Guide,March,1997,9781565922686,"['Dave Ensor', 'Ian Stevenson']"
+"Oracle Performance Tuning, 2nd Edition",November,1996,9781565922372,"['Mark Gurry', 'Peter Corrigan']"
+The KBMT Project,September,1991,9781558601291,"['Kenneth Goodman', 'Sergei Nirenburg']"
